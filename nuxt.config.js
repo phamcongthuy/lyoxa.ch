@@ -59,5 +59,8 @@ module.exports = {
       }
     }
   },
-  plugins: ['~plugins/bootstrap.js']
+  plugins: [
+    { src: '~plugins/ga.js', ssr: false },
+    '~plugins/bootstrap.js'
+  ]
 }
