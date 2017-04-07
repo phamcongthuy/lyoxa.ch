@@ -8,7 +8,7 @@
     </nuxt-link>
 
     <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-      <ul class="navbar-nav ml-auto mt-2 mt-md-0" data-toggle="collapse" data-target=".navbar-collapse">
+      <ul class="navbar-nav ml-auto mt-2 mt-md-0">
         <li class="nav-item">
           <nuxt-link to="/" class="nav-link" exact>Accueil</nuxt-link>
         </li>
