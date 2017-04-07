@@ -1,5 +1,5 @@
 <template>
   <section>
-    <h1>Home</h1>
+    <h1>Rapports d'activités</h1>
   </section>
 </template>

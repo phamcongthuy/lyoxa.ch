@@ -10,13 +10,25 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'Nuxt.js project' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', type: 'text/css', href: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css' }
+    ],
+    script: [
+      { src: 'https://code.jquery.com/jquery-3.1.1.slim.min.js' },
+      { src: 'https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js' },
+      { src: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js' }
     ]
   },
   /*
   ** Customize the progress-bar color
   */
-  loading: { color: '#3B8070' },
+  loading: false,
+  /*
+  ** Router configuration
+  */
+  router: {
+    linkActiveClass: 'active'
+  },
   /*
   ** Build configuration
   */
