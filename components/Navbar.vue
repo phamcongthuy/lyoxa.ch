@@ -3,31 +3,42 @@
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <nuxt-link to="/" class="navbar-brand">
+    <nuxt-link to="/" class="navbar-brand" @click.native="closeMenu()">
       <img src="~assets/logo.svg" width="73" height="30" alt="Lyoxa's logo">
     </nuxt-link>
 
     <div class="collapse navbar-collapse" id="navbarToggler">
       <ul class="navbar-nav ml-auto mt-2 mt-md-0">
         <li class="nav-item">
-          <nuxt-link to="/" class="nav-link" exact>Accueil</nuxt-link>
+          <nuxt-link to="/" class="nav-link" exact @click.native="closeMenu()">Accueil</nuxt-link>
         </li>
         <li class="nav-item">
-          <nuxt-link to="/lyoxa" class="nav-link">Lyoxa</nuxt-link>
+          <nuxt-link to="/lyoxa" class="nav-link" @click.native="closeMenu()">Lyoxa</nuxt-link>
         </li>
         <li class="nav-item">
-          <nuxt-link to="/equipe" class="nav-link">Équipe</nuxt-link>
+          <nuxt-link to="/equipe" class="nav-link" @click.native="closeMenu()">Équipe</nuxt-link>
         </li>
         <li class="nav-item">
-          <nuxt-link to="/partenaires" class="nav-link">Partenaires</nuxt-link>
+          <nuxt-link to="/partenaires" class="nav-link" @click.native="closeMenu()">Partenaires</nuxt-link>
         </li>
         <li class="nav-item">
-          <nuxt-link to="/rapports-activites" class="nav-link">Rapports d'activités</nuxt-link>
+          <nuxt-link to="/rapports-activites" class="nav-link" @click.native="closeMenu()">Rapports d'activités</nuxt-link>
         </li>
         <li class="nav-item">
-          <nuxt-link to="/contact" class="nav-link">Contact</nuxt-link>
+          <nuxt-link to="/contact" class="nav-link" @click.native="closeMenu()">Contact</nuxt-link>
         </li>
       </ul>
     </div>
   </nav>
 </template>
+
+<script>
+export default {
+  methods: {
+    closeMenu: function () {
+      /* eslint no-undef: off */
+      $('#navbarToggler').collapse('hide')
+    }
+  }
+}
+</script>
