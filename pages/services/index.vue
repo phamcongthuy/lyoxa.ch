@@ -64,6 +64,14 @@ import Service from '~components/Service.vue'
 export default {
   components: {
     Service
+  },
+  head () {
+    return {
+      title: 'Services - Lyoxa',
+      meta: [
+        { hid: 'description', name: 'description', content: 'Liste des services proposés par Lyoxa' }
+      ]
+    }
   }
 }
 </script>

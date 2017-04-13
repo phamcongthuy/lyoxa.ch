@@ -51,3 +51,16 @@
     </section>
   </div>
 </template>
+
+<script>
+export default {
+  head () {
+    return {
+      title: 'À propos de Lyoxa',
+      meta: [
+        { hid: 'description', name: 'description', content: 'Pourquoi Loxya? Présentation du projet.' }
+      ]
+    }
+  }
+}
+</script>

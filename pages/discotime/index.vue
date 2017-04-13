@@ -6,3 +6,16 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  head () {
+    return {
+      title: 'Disco Time! - Lyoxa',
+      meta: [
+        { hid: 'description', name: 'description', content: 'Disco Time!' }
+      ]
+    }
+  }
+}
+</script>

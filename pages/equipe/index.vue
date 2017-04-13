@@ -45,6 +45,14 @@ import Team from '~components/Team.vue'
 export default {
   components: {
     Team
+  },
+  head () {
+    return {
+      title: 'L\'équipe - Lyoxa',
+      meta: [
+        { hid: 'description', name: 'description', content: 'L\'équipe de Lyoxa.' }
+      ]
+    }
   }
 }
 </script>
