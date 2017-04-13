@@ -18,21 +18,21 @@
         <team
           name="Célia Sepe"
           title="Secrétaire Générale"
-          photo="/img/equipe/sepe-celia.png">
+          photo="/img/equipe/sepe-celia.jpg">
         </team>
       </div>
       <div class="col-md-4">
         <team
           name="Stéphanie Catterson"
           title="Trésorière"
-          photo="https://unsplash.it/200/300?image=1027">
+          photo="/img/equipe/catterson-stephanie.jpg">
         </team>
       </div>
       <div class="col-md-4">
         <team
           name="Nicolas Tamayo Lopez"
           title="Président"
-          photo="/img/equipe/tamayo-lopez-nicolas.png">
+          photo="/img/equipe/tamayo-lopez-nicolas.jpg">
         </team>
       </div>
     </div>
