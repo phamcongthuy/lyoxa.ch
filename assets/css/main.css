@@ -1,6 +1,8 @@
 @import 'custom';
 @import 'node_modules/bootstrap/scss/bootstrap.scss';
 
+@import 'transition';
+
 .multicolumnparagraph {
   column-count: 1;
   text-align: justify;
