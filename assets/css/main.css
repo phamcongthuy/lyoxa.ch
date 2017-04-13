@@ -1,2 +1,15 @@
 @import 'custom';
 @import 'node_modules/bootstrap/scss/bootstrap.scss';
+
+.multicolumnparagraph {
+  column-count: 1;
+  text-align: justify;
+  hyphens: auto;
+}
+
+@include media-breakpoint-up(md) {
+  .multicolumnparagraph {
+    column-count: 2;
+    column-gap: 3em;
+  }
+}
