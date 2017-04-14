@@ -21,12 +21,12 @@
         <li class="nav-item">
           <nuxt-link to="/equipe" class="nav-link" @click.native="closeMenu()">Équipe</nuxt-link>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <nuxt-link to="/partenaires" class="nav-link" @click.native="closeMenu()">Partenaires</nuxt-link>
-        </li>
-        <li class="nav-item">
+        </li> -->
+        <!-- <li class="nav-item">
           <nuxt-link to="/portfolio" class="nav-link" @click.native="closeMenu()">Portfolio</nuxt-link>
-        </li>
+        </li> -->
         <li class="nav-item">
           <nuxt-link to="/contact" class="nav-link" @click.native="closeMenu()">Contact</nuxt-link>
         </li>
