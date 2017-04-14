@@ -10,7 +10,7 @@
     <service
       class="mt-2"
       title="Aide à la tenue de la trésorerie"
-      description="Nous voulons proposer aux associations un accompagnement dans la tenue de leur trésorerie, être disponible pour répondre à leurs questions en la matière et prêter nos services en tant que vérificateurs de comptes pour les projets ou les exercices annuels. Nous offrirons également dans un second temps de petites formations en groupe visant à donner aux trésoriers des associations qui font appel à nos services les bases nécessaires à tenir une bonne comptabilité associative et/ou de projet.">
+      description="Nous voulons proposer aux associations un accompagnement dans la tenue de leur trésorerie, être disponible pour répondre à leurs questions en la matière et prêter nos services en tant que vérificateurs de comptes pour les projets ou les exercices annuels. Nous offrirons également dans un second temps de petites formations en groupe visant à donner aux trésoriers des associations qui font appel à nos services les bases nécessaires pour la tenue d’une bonne comptabilité associative et/ou de projet.">
     </service>
 
     <service
@@ -28,7 +28,7 @@
     <service
       class="mt-2"
       title="Support technique"
-      description="Le support technique que nous souhaitons offrir peut prendre une multitude de formes. Principalement, ce service vise à offrir aux organisateurs d’événement une ligne d’aide en cas de problème de dernière minute lors de leurs événements. Un souci technique ? Une crise à gérer ? Nous voulons nous tenir à disposition des associations pour les soutenir en cas d’imprévu.">
+      description="Le support technique que nous souhaitons offrir peut prendre une multitude de formes. Principalement, ce service vise à offrir aux organisateurs d’événements une ligne d’aide en cas de problème de dernière minute lors de leurs événements. Un souci technique ? Une crise à gérer ? Nous voulons nous tenir à disposition des associations pour les soutenir en cas d’imprévu.">
     </service>
 
     <service
@@ -39,8 +39,8 @@
 
     <service
       class="mt-2"
-      title="Banque à Matériel"
-      description="Cette prestation est l’un de nos services principaux. Constatant un manque d’offre de location de matériel de première nécessité logistique pour les événements tels que des portants à vestiaire. Nous souhaitons mettre en place une banque à matériel pour les associations du canton. Celles-ci pourront réserver le matériel au travers de notre site internet dans une partie réservée aux associations, puis elles pourront venir le chercher dans nos futurs locaux. Nous avons pour projet de louer ce matériel à un prix qui ne représenterait que son coût d’entretien.">
+      title="Banque de matériel"
+      description="Cette prestation est l’un de nos services principaux. Constatant un manque d’offre de location de matériel de première nécessité logistique pour les événements comme par exemple des portants à vestiaire. Nous souhaitons mettre en place une banque de matériel pour les associations du canton. Celles-ci pourront réserver le matériel par le biais de notre site internet dans une partie réservée aux associations, puis elles pourront venir le chercher dans nos futurs locaux. Nous avons pour projet de louer ce matériel à un prix qui ne représenterait que son coût d’entretien.">
     </service>
 
     <service

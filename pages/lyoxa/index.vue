@@ -7,16 +7,19 @@
           LYOXA est né de plusieurs constats dressés par l’expérience de terrain de plusieurs de ses fondateurs.
         </p>
         <p>
-          En effet, être une association représente de nombreux défis. Statuts, financement, locaux, matériel, compte bancaire sont tant d’éléments qui sont à la fois essentiels au bon fonctionnement d’une association et un casse-tête pour elle. Cependant, il est difficile de trouver un interlocuteur pour obtenir de l’aide et du conseil dans ces diverses démarches et bien trop souvent, les associations s’en trouvent fragilisées.
+          Toute association est confrontée à de nombreux défis. Statuts, financement, locaux, matériel, compte bancaire sont autant d’éléments qui sont à la fois essentiels au bon fonctionnement d’une association et un casse-tête pour elle. Cependant, il est difficile de trouver un interlocuteur pour obtenir de l’aide et du conseil dans ces diverses démarches et bien trop souvent, les associations s’en trouvent fragilisées.
         </p>
         <p>
-          Le premier constat et le plus évident est la place que prend le monde associatif dans notre société actuelle. Nous pouvons remarquer l’émergence de nombreuses associations dans le paysage genevois. Entre 2010 et 2016, le nombre d’associations et fondations recensées dans le canton de Genève est passé de <a href="http://www.ge.ch/statistique/tel/publications/2010/donnees_generales/memento/dg-ms-2010.pdf">821</a> à <a href="https://www.ge.ch/statistique/tel/publications/2016/donnees_generales/memento/dg-ms-2016.pdf">1790</a>. C’est sans compter toutes les associations non recensées, souvent de plus petite notoriété. Il va sans dire que le monde associatif joue un rôle non négligeable au quotidien. Une association est un tremplin, une opportunité dont l’individu engagé est loin d’être le seul bénéficiaire. Toutefois l’engagement associatif est aussi parsemé de défis et d’épreuves.
+          Le premier constat et le plus évident est la place que prend le monde associatif dans notre société actuelle. Nous pouvons remarquer l’émergence de nombreuses associations dans le paysage genevois. Entre 2010 et 2016, le nombre d’associations et fondations recensées dans le canton de Genève est passé de <a href="http://www.ge.ch/statistique/tel/publications/2010/donnees_generales/memento/dg-ms-2010.pdf">821</a> à <a href="https://www.ge.ch/statistique/tel/publications/2016/donnees_generales/memento/dg-ms-2016.pdf">1790</a>. C’est sans compter toutes les associations non recensées, souvent de plus petite notoriété.
         </p>
         <p>
-          Ce qui nous mène à notre deuxième constat principal :  ces difficultés sont formatrices, mais elles peuvent rapidement prendre des proportions dommageables pour les individus qui initialement avaient un projet et une idée bienfaitrice. Les questions de responsabilité dans l’organisation, la gestion des comptes, la bureaucratie étendue du fonctionnement public, les concepts de sécurité, voilà certaines des multiples questions qui pour une personne inexpérimentée peuvent poser un vrai challenge. Voire, parfois, mener à l’abandon d’un projet ou à de lourdes conséquences. Or, il n’existe aucune ‘’formation’’ à proprement parler pour le monde associatif, car il se veut lui-même formateur par l’expérience. Il est donc souvent difficile de se lancer dans la réalisation d’un projet.
+          Il va sans dire que le monde associatif joue un rôle non négligeable au quotidien. Une association est un tremplin, une opportunité dont l’individu engagé est loin d’être le seul bénéficiaire. Toutefois l’engagement associatif est aussi parsemé de défis et d’épreuves.
         </p>
         <p>
-          Qui plus est, non seulement l’information est difficile à trouver auprès d’un organe public, mais aussi, dans certains cas, elle n’est pas en adéquation avec les attentes d’un autre. De surcroît, les autorités publiques ne sont pas les uniques interlocuteurs des associations. En effet, les entreprises s’ajoutent à la liste d’intervenants dont il est nécessaire d’assurer la coopération.
+          Ce qui nous mène à notre deuxième constat principal :  ces difficultés sont formatrices, mais elles peuvent rapidement prendre des proportions dommageables pour les individus qui initialement avaient un projet et une idée bienfaitrice. Les questions de responsabilité dans l’organisation, la gestion des comptes, la bureaucratie étendue du fonctionnement public, les concepts de sécurité, voilà quelques-unes des multiples questions qui pour une personne inexpérimentée peuvent poser un vrai challenge. Voire, parfois, mener à l’abandon d’un projet ou à de lourdes conséquences. Or, il n’existe aucune ‘’formation’’ à proprement parler pour le monde associatif, car il se veut lui-même formateur par l’expérience. Il est donc souvent difficile de se lancer dans la réalisation d’un projet.
+        </p>
+        <p>
+          Qui plus est, non seulement l’information est difficile à trouver auprès d’un organe public, mais aussi, dans certains cas, elle n’est pas en adéquation avec les attentes d’un autre. De surcroît, les autorités publiques ne sont pas les seuls interlocuteurs des associations. En effet, les entreprises s’ajoutent à la liste d’intervenants dont il est nécessaire d’assurer la coopération.
         </p>
         <p>
           Dès lors, nous avons voulu créer une structure visant à fournir les clés de compréhension nécessaires au fonctionnement associatif. Par le soutien à l’organisation de manifestations, à la création et à la gestion d’associations, nous voulons permettre au public de s’engager dans le monde associatif afin de collectivement contribuer à l’amélioration de notre société.
@@ -31,21 +34,24 @@
       <div class="multicolumnparagraph">
         <p>
           Nous avons créé LYOXA afin de proposer une plateforme de collaboration entre les associations et les acteurs publics et privés du Canton. Notre volonté est de partager notre expérience avec les mandataires et de faciliter les démarches des associations dans leur création et leurs diverses activités.
+          <br>
           Notre premier type de services est principalement axé autour de la négociation et de la communication tant avec les autorités qu’avec les partenaires privés. Nous voulons rechercher les points de friction majeurs que les organisateurs rencontrent couramment dans la gestion de manifestations, identifier les erreurs que les autorités considèrent comme récurrentes dans ce type d’activités et clarifier les exigences de celles-ci. Sur la base de ces éléments, nous serons à même de développer des stratégies et des solutions pour optimiser la mise en place des projets. Ce sont ensuite ces solutions que nous proposerons aux associations.
         </p>
         <p>
-          De plus, nous voulons négocier des partenariats avec des entreprises offrant des services couramment sollicités par les associations. En contrepartie de la redirection des associations faisant appel à nos services, vers ces partenaires, nous voulons demander à ceux-ci l’application de réductions tarifaires. Grâce à ce type de partenariats, nous voulons contribuer à l’accessibilité économique des événements organisés par les associations, car, si les frais d’organisation sont moindres, les tarifs le seront également.
+          De plus, nous voulons négocier des partenariats avec des entreprises offrant des services couramment sollicités par les associations. En contrepartie de la redirection des associations faisant appel à nos services vers ces partenaires, nous voulons demander à ceux-ci l’application de réductions tarifaires. Grâce à ce type de partenariats, nous voulons contribuer à l’accessibilité économique des événements organisés par les associations, car, si les frais d’organisation sont moindres, les tarifs le seront également.
         </p>
         <p>
           Le second aspect consiste en la fourniture de prestations directement aux associations qui feront appel à nos services. Deux types de prestations seront offertes : les prestations de conseil et de suivi et les prestations techniques.
+          <br>
           Les prestations de conseil et de suivi permettent d’appuyer les associations dans leur création et leur fonctionnement. Elles peuvent notamment prendre la forme d’aide à la rédaction de statuts, d’aide à la tenue de la trésorerie et d’offre de canevas organisationnels visant à faciliter la création et la mise en place de projets.
-          Les prestations techniques sont des prestations de terrain. Elles prennent notamment la forme de location de matériel, de visites d’inspection, de commandes de matériel groupées, de mise à disposition d’une salle de réunion, de support technique de dernière minute et de mise en contact avec des potentiels bénévoles.
+          <br>
+          Les prestations techniques sont des prestations de terrain. Elles prennent notamment la forme de location de matériel, de visites d’inspection, de commandes de matériel groupées, de mise à disposition d’une salle de réunion, de support technique de dernière minute et de mise en contact avec des bénévoles potentiels.
         </p>
         <p>
-          En somme, notre projet est donc de se proposer aux différents acteurs de la vie associative à Genève et de faire un lien entre eux. Nous souhaitons centraliser l’information pour faciliter la tâche des associations et des autorités. Afin de réduire les interlocuteurs pour les associations, nous prenons contact directement avec les départements en lien avec l’activité associative et notons leurs attentes et directives.
+          En somme, notre projet est donc de proposer nos services aux différents acteurs de la vie associative à Genève et de faire un lien entre eux. Nous souhaitons centraliser l’information pour faciliter la tâche des associations et des autorités. Afin de réduire les interlocuteurs pour les associations, nous prenons contact directement avec les départements en lien avec l’activité associative et registrons leurs attentes et directives.
         </p>
         <p>
-          Vous pourrez trouver le détail des principaux services que nous comptons offrir aux associations sur la <nuxt-link to="/services">page services</nuxt-link>.
+          Vous pourrez trouver le détail des principaux services que nous comptons offrir aux associations sur la <nuxt-link to="/services">page des services</nuxt-link>.
         </p>
       </div>
     </section>
