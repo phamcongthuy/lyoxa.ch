@@ -2,6 +2,7 @@
 @import 'node_modules/bootstrap/scss/bootstrap.scss';
 
 @import 'transition';
+@import 'components';
 
 .multicolumnparagraph {
   column-count: 1;

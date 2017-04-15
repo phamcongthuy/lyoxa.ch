@@ -1,0 +1,15 @@
+.services-grid > div {
+  border-bottom: 1px solid $gray-lighter;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.services-grid > div:last-child {
+  border-bottom: 0;
+}
+
+@include media-breakpoint-up(md) {
+  .services-grid > div:nth-child(odd) {
+    border-right: 1px solid $gray-lighter;
+  }
+}
