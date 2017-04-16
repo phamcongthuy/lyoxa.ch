@@ -4,7 +4,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <nuxt-link to="/" class="navbar-brand" @click.native="closeMenu()">
-      <img src="~assets/logo.svg" width="73" height="30" alt="Lyoxa's logo">
+      <img src="/img/logo.svg" width="73" height="30" alt="Lyoxa's logo">
     </nuxt-link>
 
     <div class="collapse navbar-collapse" id="navbarToggler">
