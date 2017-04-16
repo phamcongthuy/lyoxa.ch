@@ -1,16 +1,19 @@
 <template>
   <div>
-    <Navbar/>
+    <lyoxa-navbar/>
     <nuxt/>
+    <lyoxa-footer/>
   </div>
 </template>
 
 <script>
-import Navbar from '~components/Navbar.vue'
+import LyoxaFooter from '~components/Footer.vue'
+import LyoxaNavbar from '~components/Navbar.vue'
 
 export default {
   components: {
-    Navbar
+    LyoxaNavbar,
+    LyoxaFooter
   }
 }
 </script>
