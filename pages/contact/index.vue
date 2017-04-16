@@ -1,8 +1,8 @@
 <template>
   <section class="container">
     <h1>Contact</h1>
-    <div class="row">
-      <div class="col-md-12">
+    <div class="row justify-content-center">
+      <div class="col-8 col-lg-6">
         <team
           name="Association Lyoxa"
           photo="/img/logo.svg"
