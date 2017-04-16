@@ -16,6 +16,7 @@
     <div class="row">
       <div class="col-lg-6">
         <team
+          class="mb-5 mb-md-0"
           name="Nicolas Tamayo Lopez"
           title="Président"
           photo="/img/equipe/tamayo-lopez-nicolas.jpg"
@@ -26,6 +27,7 @@
       </div>
       <div class="col-lg-6">
         <team
+          class="mb-5 mb-md-0"
           name="Célia Sepe"
           title="Secrétaire Générale"
           photo="/img/equipe/sepe-celia.jpg"
