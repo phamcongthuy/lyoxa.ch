@@ -1,10 +1,59 @@
 <template>
-  <section class="container">
-    <h1>Home</h1>
-  </section>
+  <div style="margin-top: -3rem;">
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1 class="display-4">Consulting associatif</h1>
+        <p class="lead">Lyoxa is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique vestibulum sapien, eget tempor nisi ullamcorper in.</p>
+        <hr class="my-4">
+        <p>Un ensemble de services sur mesure afin de vous conseiller au mieux dans vos démarches associatives.</p>
+        <p class="lead">
+          <nuxt-link class="btn btn-primary btn-lg" to="/services" role="button">Découvrir nos services</nuxt-link>
+        </p>
+      </div>
+    </div>
+    <section class="container">
+      <h1>Lyoxa</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique vestibulum sapien, eget tempor nisi ullamcorper in. Proin id pellentesque mauris, quis placerat nibh. Duis varius libero eget egestas pharetra. Maecenas lacinia risus vitae magna sagittis ultrices. Curabitur pretium sed magna fringilla venenatis. Praesent laoreet urna ac urna vulputate varius. Aenean rutrum vehicula sem sed congue. Etiam dictum eget felis sit amet bibendum. Proin elementum euismod elit ut dignissim. Integer bibendum vehicula dictum. Quisque viverra purus a libero hendrerit posuere. Donec id diam ut est ornare varius. Aenean vel tellus blandit, ornare urna nec, eleifend metus. Nam non lectus sollicitudin, ullamcorper ipsum quis, viverra dui. Duis non purus varius, mollis orci elementum, commodo lacus. Proin ut nunc magna.</p>
+      <nuxt-link class="btn btn-primary btn-lg mt-3" to="/lyoxa" role="button">En savoir plus sur Lyoxa</nuxt-link>
+    </section>
+    <div class="bg-faded py-5 mt-5">
+      <section class="container">
+        <h1>Services</h1>
+        <p>Un ensemble de services sur mesure afin de vous conseiller au mieux dans vos démarches associatives.</p>
+        <div class="row mt-5">
+          <div class="col-lg mt-3 mt-lg-0">
+            <service
+              title="Aide à la rédaction de statuts"
+              description="Ce service est destiné aux associations en formation. L’objectif est de guider les personnes qui ont pour volonté de se réunir en association dans la rédaction de leurs statuts. Leur indiquer les standards minimums, les points à ne pas oublier et les aider à rédiger des statuts qui correspondent à leurs besoins.">
+            </service>
+          </div>
+          <div class="col-lg mt-3 mt-lg-0">
+            <service
+              title="Aide à la tenue de la trésorerie"
+              description="Nous voulons proposer aux associations un accompagnement dans la tenue de leur trésorerie, être disponible pour répondre à leurs questions en la matière et prêter nos services en tant que vérificateurs de comptes pour les projets ou les exercices annuels. Nous offrirons également dans un second temps de petites formations en groupe visant à donner aux trésoriers des associations qui font appel à nos services les bases nécessaires pour la tenue d’une bonne comptabilité associative et/ou de projet.">
+            </service>
+          </div>
+          <div class="col-lg mt-3 mt-lg-0">
+            <service
+              title="Coordination d’achats de matériel groupés"
+              description="Par ce service, nous cherchons à coordonner l’achat de matériel usuellement nécessaire dans le cadre de manifestations. Les associations pourront ainsi bénéficier de tarifs préférentiels dus à des commandes en gros.">
+            </service>
+          </div>
+        </div>
+        <nuxt-link class="btn btn-primary btn-lg mt-5" to="/services" role="button">Voir tous nos services</nuxt-link>
+      </section>
+    </div>
+    <section class="container mt-5">
+      <h1>Besoin d'un conseil?</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique vestibulum sapien, eget tempor nisi ullamcorper in. Proin id pellentesque mauris, quis placerat nibh. Duis varius libero eget egestas pharetra. Maecenas lacinia risus vitae magna sagittis ultrices. Curabitur pretium sed magna fringilla venenatis. Praesent laoreet urna ac urna vulputate varius. Aenean rutrum vehicula sem sed congue. Etiam dictum eget felis sit amet bibendum. Proin elementum euismod elit ut dignissim. Integer bibendum vehicula dictum. Quisque viverra purus a libero hendrerit posuere. Donec id diam ut est ornare varius. Aenean vel tellus blandit, ornare urna nec, eleifend metus. Nam non lectus sollicitudin, ullamcorper ipsum quis, viverra dui. Duis non purus varius, mollis orci elementum, commodo lacus. Proin ut nunc magna.</p>
+      <nuxt-link class="btn btn-primary btn-lg mt-3" to="/contact" role="button">Nous contacter</nuxt-link>
+    </section>
+  </div>
 </template>
 
 <script>
+import Service from '~components/Service.vue'
+
 export default {
   head () {
     return {
@@ -13,6 +62,16 @@ export default {
         { hid: 'description', name: 'description', content: 'My custom description' }
       ]
     }
+  },
+  components: {
+    Service
   }
 }
 </script>
+
+<style scoped>
+.jumbotron {
+  background-image: url('https://unsplash.it/1920/1280/?image=168');
+  background-position: center top;
+}
+</style>
