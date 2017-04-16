@@ -1,7 +1,7 @@
 .services-grid > div {
   border-bottom: 1px solid $gray-lighter;
-  padding-top: 24px;
-  padding-bottom: 24px;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
 }
 
 .services-grid > div:last-child {
@@ -11,6 +11,10 @@
 @include media-breakpoint-up(md) {
   .services-grid > div:nth-child(odd) {
     border-right: 1px solid $gray-lighter;
+    padding-right: 1.5em;
+  }
+  .services-grid > div:nth-child(even) {
+    padding-left: 1.5em;
   }
 }
 

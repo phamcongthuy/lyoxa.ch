@@ -2,7 +2,7 @@
   <div class="container">
     <section>
       <h1>Pourquoi nous?</h1>
-      <div class="multicolumnparagraph">
+      <div class="justify multicolumnparagraph">
         <p>
           LYOXA est né de plusieurs constats dressés par l’expérience de terrain de plusieurs de ses fondateurs.
         </p>
@@ -31,7 +31,7 @@
     </section>
     <section class="mt-5">
       <h1>Présentation du projet</h1>
-      <div class="multicolumnparagraph">
+      <div class="justify multicolumnparagraph">
         <p>
           Nous avons créé LYOXA afin de proposer une plateforme de collaboration entre les associations et les acteurs publics et privés du Canton. Notre volonté est de partager notre expérience avec les mandataires et de faciliter les démarches des associations dans leur création et leurs diverses activités.
           <br>

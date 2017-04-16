@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <h1>Équipe</h1>
-    <div class="multicolumnparagraph">
+    <div class="justify multicolumnparagraph">
       <p>
         Notre équipe est principalement composée de jeunes universitaires, étudiants en <i>Droit et Relations Internationales</i>. Depuis nos années au collège, nous faisons partie de plusieurs associations genevoises estudiantines. Par notre engagement, nous avons eu l'occasion de toucher à tous les domaines liés à l'activité associative. Curieux et avides d'expérience, nous nous sommes intéressés à la large scène genevoise associative et avons forgé un grand réseau de connaissances. De par les postes que nous avons occupés au sein de nos associations, nous avons acquis et maîtrisé les compétences administratives requises pour leur bon fonctionnement.
       </p>
