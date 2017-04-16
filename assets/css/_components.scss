@@ -13,3 +13,18 @@
     border-right: 1px solid $gray-lighter;
   }
 }
+
+@include media-breakpoint-up(md) {
+  .nav-link {
+    border-top: 3px solid white;
+    padding-top: 1em;
+  }
+
+  .nav-link.active {
+    border-top: 3px solid $red;
+  }
+
+  .navbar {
+    padding-top: 0;
+  }
+}
