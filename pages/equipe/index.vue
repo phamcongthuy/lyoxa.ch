@@ -39,6 +39,17 @@
         </team>
       </div>
     </div>
+    <h2 class="mt-5">Membres</h2>
+    <div class="row">
+      <div class="col-md-4">
+        <team
+          name="Thibaud Mabut"
+          title="Délégué à la communication"
+          photo="https://unsplash.it/200/300?image=883"
+          vertical=true>
+        </team>
+      </div>
+    </div>
   </section>
 </template>
 
