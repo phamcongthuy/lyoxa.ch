@@ -3,7 +3,7 @@
     <div class="jumbotron jumbotron-fluid">
       <div class="container">
         <h1 class="display-4">Consulting associatif</h1>
-        <p class="lead">Lyoxa is a lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique vestibulum sapien, eget tempor nisi ullamcorper in.</p>
+        <p class="lead">Lyoxa est une plateforme de soutien, d'entraide et de collaboration entre les différents acteurs liés à la vie associative sur le Canton de Genève.</p>
         <hr class="my-4">
         <p>Un ensemble de services sur mesure afin de vous conseiller au mieux dans vos démarches associatives.</p>
         <p class="lead">
@@ -13,7 +13,8 @@
     </div>
     <section class="container">
       <h1>Lyoxa</h1>
-      <p class="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique vestibulum sapien, eget tempor nisi ullamcorper in. Proin id pellentesque mauris, quis placerat nibh. Duis varius libero eget egestas pharetra. Maecenas lacinia risus vitae magna sagittis ultrices. Curabitur pretium sed magna fringilla venenatis. Praesent laoreet urna ac urna vulputate varius. Aenean rutrum vehicula sem sed congue. Etiam dictum eget felis sit amet bibendum. Proin elementum euismod elit ut dignissim. Integer bibendum vehicula dictum. Quisque viverra purus a libero hendrerit posuere. Donec id diam ut est ornare varius. Aenean vel tellus blandit, ornare urna nec, eleifend metus. Nam non lectus sollicitudin, ullamcorper ipsum quis, viverra dui. Duis non purus varius, mollis orci elementum, commodo lacus. Proin ut nunc magna.</p>
+      <p class="justify">LYOXA est né de plusieurs constats dressés par l’expérience de terrain de plusieurs de ses fondateurs.</p>
+      <p class="justify">Dès lors, nous avons voulu créer une structure visant à fournir les clés de compréhension nécessaires au fonctionnement associatif. Par le soutien à l’organisation de manifestations, à la création et à la gestion d’associations, nous voulons permettre au public de s’engager dans le monde associatif afin de collectivement contribuer à l’amélioration de notre société.</p>
       <nuxt-link class="btn btn-primary btn-lg mt-3" to="/lyoxa" role="button">En savoir plus sur Lyoxa</nuxt-link>
     </section>
     <div class="bg-faded py-5 mt-5">
@@ -45,7 +46,7 @@
     </div>
     <section class="container mt-5">
       <h1>Besoin d'un conseil?</h1>
-      <p class="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique vestibulum sapien, eget tempor nisi ullamcorper in. Proin id pellentesque mauris, quis placerat nibh. Duis varius libero eget egestas pharetra. Maecenas lacinia risus vitae magna sagittis ultrices. Curabitur pretium sed magna fringilla venenatis. Praesent laoreet urna ac urna vulputate varius. Aenean rutrum vehicula sem sed congue. Etiam dictum eget felis sit amet bibendum. Proin elementum euismod elit ut dignissim. Integer bibendum vehicula dictum. Quisque viverra purus a libero hendrerit posuere. Donec id diam ut est ornare varius. Aenean vel tellus blandit, ornare urna nec, eleifend metus. Nam non lectus sollicitudin, ullamcorper ipsum quis, viverra dui. Duis non purus varius, mollis orci elementum, commodo lacus. Proin ut nunc magna.</p>
+      <p class="justify">Nous mettons à votre service notre expérience pour toute demande.</p>
       <nuxt-link class="btn btn-primary btn-lg mt-3" to="/contact" role="button">Nous contacter</nuxt-link>
     </section>
   </div>
