@@ -16,6 +16,9 @@
   .services-grid > div:nth-child(even) {
     padding-left: 1.5em;
   }
+  .services-grid > div:nth-last-child(2) {
+    border-bottom: 0;
+  }
 }
 
 @include media-breakpoint-up(md) {

@@ -57,6 +57,13 @@
           description="De par notre travail de terrain avec les associations, nous aurons l’avantage de pouvoir déceler les problèmes récurrents rencontrés par celles-ci dans leurs démarches. Sur cette base, nous serons à même de témoigner de l’état de la vie associative du canton et de fournir des informations de terrain aux autorités pour permettre une meilleure symbiose entre tous les acteurs.">
         </service>
       </div>
+      <div class="col-md-6">
+        <service
+          title="Et plus sur demande"
+          button-link="/contact"
+          button-text="Contactez-nous">
+        </service>
+      </div>
     </div>
   </section>
 </template>
