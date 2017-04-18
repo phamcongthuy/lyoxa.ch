@@ -4,8 +4,7 @@
       <div class="container">
         <h1 class="display-4">Consulting associatif</h1>
         <p class="lead col-md-8 p-0">Lyoxa est une plateforme de soutien, d'entraide et de collaboration entre les différents acteurs liés à la vie associative sur le Canton de Genève.</p>
-        <hr class="my-4">
-        <p class="lead">
+        <p class="lead mt-5">
           <nuxt-link class="btn btn-primary btn-lg" to="/services" role="button">Découvrir nos services</nuxt-link>
         </p>
       </div>
