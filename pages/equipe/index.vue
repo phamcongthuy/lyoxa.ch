@@ -16,6 +16,14 @@
     <div class="row">
       <div class="col-md-4">
         <team
+          name="Nicolas Tamayo Lopez"
+          title="Président"
+          photo="/img/equipe/tamayo-lopez-nicolas.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
           name="Célia Sepe"
           title="Secrétaire Générale"
           photo="/img/equipe/sepe-celia.jpg"
@@ -27,14 +35,6 @@
           name="Stéphanie Catterson"
           title="Trésorière"
           photo="/img/equipe/catterson-stephanie.jpg"
-          vertical=true>
-        </team>
-      </div>
-      <div class="col-md-4">
-        <team
-          name="Nicolas Tamayo Lopez"
-          title="Président"
-          photo="/img/equipe/tamayo-lopez-nicolas.jpg"
           vertical=true>
         </team>
       </div>
