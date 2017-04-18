@@ -72,7 +72,8 @@ export default {
 
 <style scoped>
 .jumbotron {
-  background-image: url('https://unsplash.it/1920/1280/?image=168');
-  background-position: center top;
+  color: white;
+  background-image: url('/img/home/hero-geneve.jpg');
+  background-position: calc(50% - 100px) calc(50% + 50px);
 }
 </style>
