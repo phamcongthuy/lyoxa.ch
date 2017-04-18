@@ -1,11 +1,10 @@
 <template>
   <div style="margin-top: -3rem;">
-    <div class="jumbotron jumbotron-fluid">
+    <div class="jumbotron jumbotron-fluid jumbotron__home text-white">
       <div class="container">
         <h1 class="display-4">Consulting associatif</h1>
-        <p class="lead">Lyoxa est une plateforme de soutien, d'entraide et de collaboration entre les différents acteurs liés à la vie associative sur le Canton de Genève.</p>
+        <p class="lead col-md-8 p-0">Lyoxa est une plateforme de soutien, d'entraide et de collaboration entre les différents acteurs liés à la vie associative sur le Canton de Genève.</p>
         <hr class="my-4">
-        <p>Un ensemble de services sur mesure afin de vous conseiller au mieux dans vos démarches associatives.</p>
         <p class="lead">
           <nuxt-link class="btn btn-primary btn-lg" to="/services" role="button">Découvrir nos services</nuxt-link>
         </p>
@@ -69,11 +68,3 @@ export default {
   }
 }
 </script>
-
-<style scoped>
-.jumbotron {
-  color: white;
-  background-image: url('/img/home/hero-geneve.jpg');
-  background-position: calc(50% - 100px) calc(50% + 50px);
-}
-</style>
