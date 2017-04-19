@@ -1,10 +1,10 @@
 <template>
   <div class="container">
     <section>
-      <h1>Pourquoi nous?</h1>
+      <h1>Pourquoi notre projet?</h1>
       <div class="justify multicolumnparagraph">
         <p>
-          LYOXA est né de plusieurs constats dressés par l’expérience de terrain de plusieurs de ses fondateurs.
+          LYOXA est né de multiples constats dressés par l’expérience de terrain de plusieurs de ses fondateurs.
         </p>
         <p>
           Toute association est confrontée à de nombreux défis. Statuts, financement, locaux, matériel, compte bancaire sont autant d’éléments qui sont à la fois essentiels au bon fonctionnement d’une association et un casse-tête pour elle. Cependant, il est difficile de trouver un interlocuteur pour <b>obtenir de l’aide et du conseil</b> dans ces diverses démarches et bien trop souvent, les associations s’en trouvent fragilisées.
@@ -13,7 +13,7 @@
           Le premier constat et le plus évident est la place que prend le monde associatif dans notre société actuelle. Nous pouvons remarquer l’<b>émergence de nombreuses associations</b> dans le paysage genevois. Entre 2010 et 2016, le nombre d’associations et fondations recensées dans le canton de Genève est passé de <a href="http://www.ge.ch/statistique/tel/publications/2010/donnees_generales/memento/dg-ms-2010.pdf">821</a> à <a href="https://www.ge.ch/statistique/tel/publications/2016/donnees_generales/memento/dg-ms-2016.pdf">1790</a>. C’est sans compter toutes les associations non recensées, souvent de plus petite notoriété.
         </p>
         <p>
-          Il va sans dire que le monde associatif joue un rôle non négligeable au quotidien. Une association est un tremplin, une <b>opportunité</b> dont l’individu engagé est loin d’être le seul bénéficiaire. Toutefois l’engagement associatif est aussi parsemé de défis et d’épreuves.
+          Le monde associatif joue un rôle précieux pour la collectivité. Une association est un tremplin, une <b>opportunité</b> dont l’individu engagé est loin d’être le seul bénéficiaire. Toutefois l’engagement associatif est aussi parsemé de défis et d’épreuves.
         </p>
         <p>
           Ce qui nous mène à notre deuxième constat principal :  ces difficultés sont formatrices, mais elles peuvent rapidement prendre des proportions dommageables pour les individus qui initialement avaient un projet et une idée bienfaitrice. Les questions de responsabilité dans l’organisation, la gestion des comptes, la bureaucratie étendue du fonctionnement public, les concepts de sécurité, voilà quelques-unes des multiples questions qui pour une personne inexpérimentée peuvent poser un vrai challenge. Voire, parfois, mener à l’abandon d’un projet ou à de lourdes conséquences. Or, il n’existe aucune ‘’formation’’ à proprement parler pour le monde associatif, car il se veut lui-même formateur par l’expérience. Il est donc souvent difficile de se lancer dans la <b>réalisation d’un projet</b>.
@@ -36,10 +36,10 @@
           Nous avons créé LYOXA afin de proposer une plateforme de collaboration entre les associations et les acteurs publics et privés du Canton. Notre volonté est de partager notre expérience avec les mandataires et de faciliter les démarches des associations dans leur création et leurs diverses activités.
         </p>
         <p>
-          Notre premier type de services est principalement axé autour de la négociation et de la communication tant avec les autorités qu’avec les partenaires privés. Nous voulons rechercher les points de friction majeurs que les organisateurs rencontrent couramment dans la gestion de manifestations, identifier les erreurs que les autorités considèrent comme récurrentes dans ce type d’activités et clarifier les exigences de celles-ci. Sur la base de ces éléments, nous serons à même de développer des stratégies et des solutions pour optimiser la mise en place des projets. Ce sont ensuite ces solutions que nous proposerons aux associations.
+          Notre premier type de services est principalement axé autour de la négociation et de la communication tant avec les autorités qu’avec les partenaires privés. Nous voulons analyser les points de friction majeurs que les organisateurs rencontrent couramment dans la gestion de manifestations, identifier les erreurs que les autorités considèrent comme récurrentes dans ce type d’activités et clarifier les exigences de celles-ci. Sur la base de ces éléments, nous sommes à même de développer des stratégies et des solutions pour optimiser la mise en place des projets. Ce sont ensuite ces solutions que nous proposerons aux associations.
         </p>
         <p>
-          De plus, nous voulons négocier des partenariats avec des entreprises offrant des services couramment sollicités par les associations. En contrepartie de la redirection des associations faisant appel à nos services vers ces partenaires, nous voulons demander à ceux-ci l’application de réductions tarifaires. Grâce à ce type de partenariats, nous voulons contribuer à l’accessibilité économique des événements organisés par les associations, car, si les frais d’organisation sont moindres, les tarifs le seront également.
+          De plus, nous voulons négocier des partenariats avec des entreprises offrant des services couramment sollicités par les associations. En contrepartie de la redirection des associations faisant appel à nos services vers ces partenaires, nous voulons demander à ceux-ci l’application de réductions tarifaires. Grâce à ce type de partenariats, nous voulons contribuer à l’accessibilité économique des événements organisés par les associations, car, si les frais d’organisation sont moindres, les tarifs des manifestations le seront également.
         </p>
         <p>
           Le second aspect consiste en la fourniture de prestations directement aux associations qui feront appel à nos services. Deux types de prestations seront offertes : les prestations de conseil et de suivi et les prestations techniques.

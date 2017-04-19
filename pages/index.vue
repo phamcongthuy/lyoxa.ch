@@ -3,7 +3,7 @@
     <div class="jumbotron jumbotron-fluid jumbotron__home text-white">
       <div class="container">
         <h1 class="display-4">Consulting associatif</h1>
-        <p class="lead col-md-8 p-0">Lyoxa est une plateforme de soutien, d'entraide et de collaboration entre les différents acteurs liés à la vie associative sur le Canton de Genève.</p>
+        <p class="lead col-md-8 p-0">Lyoxa est une plateforme de soutien, d’entraide et de collaboration entre les différents acteurs liés à la vie associative dans le Canton de Genève.</p>
         <p class="lead mt-5">
           <nuxt-link class="btn btn-primary btn-lg" to="/services" role="button">Découvrir nos services</nuxt-link>
         </p>
@@ -11,8 +11,8 @@
     </div>
     <section class="container">
       <h1>Lyoxa</h1>
-      <p class="justify">LYOXA est né de plusieurs constats dressés par l’expérience de terrain de plusieurs de ses fondateurs.</p>
-      <p class="justify">Dès lors, nous avons voulu créer une structure visant à fournir les clés de compréhension nécessaires au fonctionnement associatif. Par le soutien à l’organisation de manifestations, à la création et à la gestion d’associations, nous voulons permettre au public de s’engager dans le monde associatif afin de collectivement contribuer à l’amélioration de notre société.</p>
+      <p class="justify">LYOXA est né de multiples constats dressés par l’expérience de terrain de plusieurs de ses fondateurs.</p>
+      <p class="justify">Dès lors, nous avons voulu créer une structure visant à fournir les <b>clés de compréhension</b> nécessaires au fonctionnement associatif. Par le soutien à l’organisation de manifestations ainsi qu’à la création et à la gestion d’associations, nous voulons permettre à tout à chacun de s’engager dans le monde associatif afin de collectivement contribuer à l’amélioration de notre société.</p>
       <nuxt-link class="btn btn-primary btn-lg mt-3" to="/lyoxa" role="button">En savoir plus sur Lyoxa</nuxt-link>
     </section>
     <div class="bg-faded py-5 mt-5">

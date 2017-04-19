@@ -9,7 +9,7 @@
         De plus, grâce à cette expérience, nous avons reçu de nombreuses demandes individuelles de soutien et d’informations de notre réseau de connaissances. Nous avons dû intervenir dans plusieurs événements, conseiller des associations dans leur fonctionnement et financement, nous renseigner auprès des autorités des nouvelles attentes, négocier auprès d’entreprises et de propriétaires de salle ainsi que mettre en contact les associations avec nos précédents partenaires. Ces actions ont été faites à titre individuel et ce, de manière fréquente.
       </p>
       <p>
-        Actuellement l’association est composée des trois membres fondateurs présentés ci-dessous. Nous travaillons toutefois au renforcement de cette équipe en recrutant parmi les personnes les plus motivées et engagées possibles.
+        Actuellement l’association est composée des trois membres fondateurs et d’un membre présentés ci-dessous. Toutefois, nous travaillons au renforcement de cette équipe en recrutant des personnes motivées et engagées.
       </p>
     </div>
     <h2 class="mt-5">Membres fondateurs</h2>
