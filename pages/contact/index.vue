@@ -50,7 +50,7 @@
         <team
           name="Thibaud Mabut"
           title="Délégué à la communication"
-          photo="https://unsplash.it/200/300?image=883"
+          photo="/img/equipe/mabut-thibaud.jpg"
           address="7a Rampe du Pont-Rouge" postal-code="CH-1213" locality="Petit-Lancy"
           email="thibaud.mabut@lyoxa.ch"
           phone="+41 76 375 81 56">

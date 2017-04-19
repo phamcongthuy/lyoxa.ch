@@ -45,7 +45,7 @@
         <team
           name="Thibaud Mabut"
           title="Délégué à la communication"
-          photo="https://unsplash.it/200/300?image=883"
+          photo="/img/equipe/mabut-thibaud.jpg"
           vertical=true>
         </team>
       </div>
