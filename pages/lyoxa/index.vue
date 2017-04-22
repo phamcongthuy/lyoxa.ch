@@ -58,6 +58,23 @@
         </p>
       </div>
     </section>
+    <section class="mt-5">
+      <h1>Documents</h1>
+      <ul class="list-unstyled">
+        <li>
+          <a href="/documents/Dossier%20de%20présentation.pdf" class="lead">
+            <span class="file file-pdf"></span> Dossier de présentation
+          </a>
+          <span class="text-muted"> (pdf, 858 KB)</span>
+        </li>
+        <li>
+          <a href="/documents/Statuts%20en%20vigueur%20-%2017.04.17.pdf" class="lead">
+            <span class="file file-pdf"></span> Statuts en vigueur - 17.04.17
+          </a>
+          <span class="text-muted"> (pdf, 104 KB)</span>
+        </li>
+      </ul>
+    </section>
   </div>
 </template>
 
@@ -73,3 +90,14 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+  .file.file-pdf {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    background-image: url('~assets/icons/file-pdf.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+</style>
