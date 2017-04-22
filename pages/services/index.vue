@@ -2,6 +2,8 @@
   <section class="container">
     <h1>Services</h1>
 
+    <p class="lead">Tous nos services sont gratuits, excepté la location de matériel.</p>
+
     <div class="row services-grid">
       <div class="col-md-6">
         <service
