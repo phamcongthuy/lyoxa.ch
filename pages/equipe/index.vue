@@ -64,7 +64,10 @@ export default {
     return {
       title: 'L\'équipe - Lyoxa',
       meta: [
-        { hid: 'description', name: 'description', content: 'L\'équipe de Lyoxa.' }
+        { hid: 'description', name: 'description', content: 'L\'équipe de Lyoxa.' },
+        { property: 'og:url', content: 'https://lyoxa.ch/equipe/', hid: 'og_url' },
+        { property: 'og:title', content: 'L\'équipe', hid: 'og_title' },
+        { property: 'og:description', content: 'L\'équipe de Lyoxa; le comité et les membres.', hid: 'og_description' }
       ]
     }
   }
