@@ -84,7 +84,7 @@ export default {
       meta: [
         { hid: 'description', name: 'description', content: 'Liste des services proposés par Lyoxa' },
         { property: 'og:url', content: 'https://lyoxa.ch/services/', hid: 'og_url' },
-        { property: 'og:title', content: 'Services', hid: 'og_title' },
+        { property: 'og:title', content: 'Lyoxa - Services', hid: 'og_title' },
         { property: 'og:description', content: 'Liste des services proposés par Lyoxa: conseils, statuts, trésorerie, banque de matériel et plus!', hid: 'og_description' }
       ]
     }

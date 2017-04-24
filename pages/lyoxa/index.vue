@@ -86,7 +86,7 @@ export default {
       meta: [
         { hid: 'description', name: 'description', content: 'Pourquoi notre projet? Présentation du projet et documents officiels.' },
         { property: 'og:url', content: 'https://lyoxa.ch/lyoxa/', hid: 'og_url' },
-        { property: 'og:title', content: 'Lyoxa', hid: 'og_title' },
+        { property: 'og:title', content: 'Lyoxa - Pourquoi notre projet?', hid: 'og_title' },
         { property: 'og:description', content: 'Pourquoi notre projet? Présentation du projet et documents officiels.', hid: 'og_description' }
       ]
     }

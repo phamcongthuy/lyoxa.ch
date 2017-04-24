@@ -69,7 +69,7 @@ export default {
       meta: [
         { hid: 'description', name: 'description', content: 'Contacter Lyoxa' },
         { property: 'og:url', content: 'https://lyoxa.ch/contact/', hid: 'og_url' },
-        { property: 'og:title', content: 'Contact', hid: 'og_title' },
+        { property: 'og:title', content: 'Lyoxa - Contact', hid: 'og_title' },
         { property: 'og:description', content: 'Contacter Lyoxa', hid: 'og_description' }
       ]
     }

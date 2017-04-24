@@ -15,7 +15,7 @@ export default {
       meta: [
         { hid: 'description', name: 'description', content: 'Disco Time!' },
         { property: 'og:url', content: 'https://lyoxa.ch/discotime/', hid: 'og_url' },
-        { property: 'og:title', content: 'Disco Time!', hid: 'og_title' },
+        { property: 'og:title', content: 'Lyoxa - Disco Time!', hid: 'og_title' },
         { property: 'og:description', content: 'Disco Time!', hid: 'og_description' }
       ]
     }
