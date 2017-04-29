@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>https://lyoxa.ch/</loc>
+      <image:image>
+        <image:loc>https://lyoxa.ch/img/logo.svg</image:loc>
+        <image:title>Lyoxa's logo</image:title>
+      </image:image>
       <video:video>
         <video:thumbnail_loc>https://lyoxa.ch/img/home/lyoxa-presentation.png</video:thumbnail_loc>
         <video:title>Lyoxa - Consulting associatif</video:title>
