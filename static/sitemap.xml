@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>https://lyoxa.ch/</loc>
+      <video:video>
+        <video:thumbnail_loc>https://lyoxa.ch/img/home/lyoxa-presentation.png</video:thumbnail_loc>
+        <video:title>Lyoxa - Consulting associatif</video:title>
+        <video:description>Présentation de Lyoxa, une association à but non lucratif offrant du consulting associatif.</video:description>
+        <video:content_loc>https://lyoxa.ch/videos/lyoxa-presentation.mp4</video:content_loc>
+        <video:duration>66</video:duration>
+        <video:family_friendly>yes</video:family_friendly>
+        <video:live>no</video:live>
+      </video:video>
    </url>
    <url>
       <loc>https://lyoxa.ch/lyoxa</loc>
