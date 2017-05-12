@@ -49,6 +49,22 @@
           vertical=true>
         </team>
       </div>
+      <div class="col-md-4">
+        <team
+          name="Marc Delacrétaz"
+          title="Délégué à la logistique"
+          photo="/img/equipe/delacretaz-marc.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Louis Mégroz"
+          title="Délégué aux infrastructures"
+          photo="/img/equipe/megroz-louis.jpg"
+          vertical=true>
+        </team>
+      </div>
     </div>
   </section>
 </template>
