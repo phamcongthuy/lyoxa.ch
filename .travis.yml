@@ -1,0 +1,25 @@
+language: node_js
+node_js:
+- '7'
+install:
+- npm i -g travis-ci-cloudfront-invalidation
+- npm i
+script:
+- npm run generate
+deploy:
+  on:
+    branch: master
+  provider: s3
+  access_key_id: "$AWS_ACCESS_KEY_ID"
+  secret_access_key: "$AWS_SECRET_ACCESS_KEY"
+  bucket: lyoxa.ch
+  region: eu-west-1
+  skip_cleanup: true
+  local_dir: dist
+  acl: public_read
+after_deploy:
+- travis-ci-cloudfront-invalidation -a $AWS_ACCESS_KEY_ID -s $AWS_SECRET_ACCESS_KEY
+  -c $CLOUDFRONT_DISTRIBUTION_ID -i '/*' -b $TRAVIS_BRANCH -p $TRAVIS_PULL_REQUEST
+notifications:
+  slack:
+    secure: tNwa2UEq6bVpo3X8PAP/6C9QzCo0nDVF7qOmH7yp8SE9O1XofnVeLu659Bro59aH6C7tCLJ7HxEdfWcG8m9cw4Ri5Z1Rf6+9qvfEXZN6mkvgqLGAd6Ar8G6yJv0yE1cUEsELm9dS2snWqDkRAFIGikkP0jncVewAOdWHJWLxxbTCMzON0YMC3h79VzwA0RAXxGlxzeWOtFJQhJdjN988X8zqm0RRBAa4fWc6CbsAKtCfeqiy6NuruQE7kvXXJ2OELOqipMmdcXAegC57TBRIDW4ajvmCi3ofGtTGEdbuJm6oVq+8cHlmEokVHsuqYmp3l0PbzpFob2EnYYMd/jMpwk9sn/Id2VO7+92vMCILKVeoTZ04+juwRZ3+jx47jJHd//pxgzU7O9BHcWcgSMof+y1+CoWutl9vXs59q/g0WlLwrAytfhbzIVbDRm13QIJWUO3iXLMz6iCpn8ZkT9/CHBf6+CYOlnhB+fZOmbmgqFXAAhrhnrasyoaTk+HmC4K+6WAcwHK8/d5Jvzy2r/JYxPVbYJVm0F2jRPYh2flTn1gXKidDj3ccPalmUgog/FZYbR1obk3OdFQqZq8zo7RqSRRVZwUvVES12ON5+AC3grcEBFAL/prhXt1JKQz+1i7OTqY5ntx7SW8cUVjTCfCxok2PucI9ioqRHqcp3Y5vzpk=
