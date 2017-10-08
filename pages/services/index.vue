@@ -63,7 +63,7 @@
         <service
           title="Votre demande ne correspond à aucun des services présentés ci-dessus?"
           description="Contactez-nous pour plus d’informations."
-          button-link="/contact"
+          button-link="/contact/"
           button-text="Contactez-nous">
         </service>
       </div>

@@ -14,13 +14,13 @@
           <nuxt-link to="/" class="nav-link" exact @click.native="closeMenu()">Accueil</nuxt-link>
         </li>
         <li class="nav-item">
-          <nuxt-link to="/lyoxa" class="nav-link" @click.native="closeMenu()">Lyoxa</nuxt-link>
+          <nuxt-link to="/lyoxa/" class="nav-link" @click.native="closeMenu()">Lyoxa</nuxt-link>
         </li>
         <li class="nav-item">
-          <nuxt-link to="/services" class="nav-link" @click.native="closeMenu()">Services</nuxt-link>
+          <nuxt-link to="/services/" class="nav-link" @click.native="closeMenu()">Services</nuxt-link>
         </li>
         <li class="nav-item">
-          <nuxt-link to="/equipe" class="nav-link" @click.native="closeMenu()">Équipe</nuxt-link>
+          <nuxt-link to="/equipe/" class="nav-link" @click.native="closeMenu()">Équipe</nuxt-link>
         </li>
         <!-- <li class="nav-item">
           <nuxt-link to="/partenaires" class="nav-link" @click.native="closeMenu()">Partenaires</nuxt-link>
@@ -29,7 +29,7 @@
           <nuxt-link to="/portfolio" class="nav-link" @click.native="closeMenu()">Portfolio</nuxt-link>
         </li> -->
         <li class="nav-item">
-          <nuxt-link to="/contact" class="nav-link" @click.native="closeMenu()">Contact</nuxt-link>
+          <nuxt-link to="/contact/" class="nav-link" @click.native="closeMenu()">Contact</nuxt-link>
         </li>
       </ul>
     </div>

@@ -54,7 +54,7 @@
           En somme, notre projet est donc de proposer nos services aux différents acteurs de la vie associative à Genève et de faire un lien entre eux. Nous souhaitons centraliser l’information pour faciliter la tâche des associations et des autorités. Afin de réduire les interlocuteurs pour les associations, nous prenons contact directement avec les départements en lien avec l’activité associative et registrons leurs attentes et directives.
         </p>
         <p>
-          Vous pourrez trouver le détail des principaux services que nous comptons offrir aux associations sur la <nuxt-link to="/services">page des services</nuxt-link>.
+          Vous pourrez trouver le détail des principaux services que nous comptons offrir aux associations sur la <nuxt-link to="/services/">page des services</nuxt-link>.
         </p>
       </div>
     </section>
