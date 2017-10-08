@@ -32,14 +32,14 @@ module.exports = {
     ]
   },
   /*
-  ** Customize the progress-bar color
+  ** Customize the progress bar color
   */
   loading: false,
   /*
   ** CSS configuration
   */
   css: [
-    { src: '~assets/css/main.css', lang: 'scss' }
+    '@/assets/css/main.scss'
   ],
   /*
   ** Router configuration
@@ -51,21 +51,21 @@ module.exports = {
   ** Build configuration
   */
   build: {
-    vendor: ['jquery', 'tether', 'bootstrap', 'vue-konami-code'],
+    vendor: ['jquery', 'popper.js', 'bootstrap', 'vue-konami-code'],
     plugins: [
       // set shortcuts as global for bootstrap
       new webpack.ProvidePlugin({
         $: 'jquery',
         jQuery: 'jquery',
         'window.jQuery': 'jquery',
-        'Tether': 'tether'
+        Popper: ['popper.js', 'default']
       })
     ],
     /*
-    ** Run ESLINT on save
+    ** Run ESLint on save
     */
     extend (config, ctx) {
-      if (ctx.isClient) {
+      if (ctx.dev && ctx.isClient) {
         config.module.rules.push({
           enforce: 'pre',
           test: /\.(js|vue)$/,
@@ -76,8 +76,8 @@ module.exports = {
     }
   },
   plugins: [
-    { src: '~plugins/ga.js', ssr: false },
-    '~plugins/bootstrap.js',
-    { src: '~plugins/konami.js', ssr: false }
+    { src: '@/plugins/ga.js', ssr: false },
+    '@/plugins/bootstrap.js',
+    { src: '@/plugins/konami.js', ssr: false }
   ]
 }

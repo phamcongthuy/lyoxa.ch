@@ -1,6 +1,6 @@
 # lyoxa.ch
 
-> Lyoxa Web Application - Frontend
+> Lyoxa's corporate website
 
 ## Build Setup
 
