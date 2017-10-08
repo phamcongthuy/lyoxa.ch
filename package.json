@@ -2,7 +2,7 @@
   "name": "lyoxa.ch",
   "version": "1.0.0",
   "description": "Lyoxa's corporate website",
-  "author": "rspt <julien@rspt.ch>",
+  "author": "Julien Grünhagel <julien@laruche.io>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
