@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-md navbar-light mb-5">
+  <nav class="navbar sticky-top navbar-expand-md navbar-light bg-white mb-5">
     <nuxt-link to="/" class="navbar-brand" @click.native="closeMenu()">
       <img src="/img/logo.svg" width="73" height="30" alt="Lyoxa's logo">
     </nuxt-link>
