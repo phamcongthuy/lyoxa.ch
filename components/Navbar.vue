@@ -5,8 +5,14 @@
         <img src="/img/logo.svg" width="73" height="30" alt="Lyoxa's logo">
       </nuxt-link>
 
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+      <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
+      </button> -->
+
+      <button class="navbar-toggler hamburger hamburger--minus" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="hamburger-box">
+          <span class="hamburger-inner"></span>
+        </span>
       </button>
 
       <div class="collapse navbar-collapse" id="navbarToggler">
