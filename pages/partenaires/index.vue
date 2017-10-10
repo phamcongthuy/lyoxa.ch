@@ -32,7 +32,7 @@
           title="DJ-R"
           description="Location de sonorisation et d'éclairage pour votre événement."
           buttonLink="http://www.dj-r.ch/"
-          logo="dj-r.jpg">
+          logo="dj-r.svg">
         </partenaire>
       </div>
     </div>
