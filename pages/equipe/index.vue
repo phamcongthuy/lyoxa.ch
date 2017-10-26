@@ -12,7 +12,7 @@
         Actuellement l’association est composée des trois membres fondateurs et de trois membres délégués, présentés ci-contre, ainsi que de trois gestionnaires de dossiers. Nous travaillons toutefois au renforcement de cette équipe en recrutant des personnes motivées, engagées et pouvant apporter un plus dans nos services.
       </p>
     </div>
-    <h2 class="mt-5">Membres fondateurs</h2>
+    <h2 class="mt-5">Membres fondateurs et Comité</h2>
     <div class="row">
       <div class="col-md-4">
         <team
@@ -39,7 +39,8 @@
         </team>
       </div>
     </div>
-    <h2 class="mt-5">Membres</h2>
+
+    <h2 class="mt-5">Délégués</h2>
     <div class="row">
       <div class="col-md-4">
         <team
@@ -62,6 +63,34 @@
           name="Louis Mégroz"
           title="Délégué aux infrastructures"
           photo="/img/equipe/megroz-louis.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Guillaume Tschuy"
+          title="Délégué au service juridique"
+          photo="/img/equipe/tschuy-guillaume.jpg"
+          vertical=true>
+        </team>
+      </div>
+    </div>
+
+    <h2 class="mt-5">Gestionnaires de dossiers</h2>
+    <div class="row">
+      <div class="col-md-4">
+        <team
+          name="Jules Lorenzi"
+          title="Gestionnaires de dossiers"
+          photo="/img/equipe/lorenzi-jules.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Sophie Ratcliff"
+          title="Gestionnaires de dossiers"
+          photo="/img/equipe/ratcliff-sophie.jpg"
           vertical=true>
         </team>
       </div>

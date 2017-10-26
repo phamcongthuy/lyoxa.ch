@@ -76,6 +76,36 @@
           phone="+41 76 343 60 74">
         </team>
       </div>
+      <div class="col-lg-6">
+        <team
+          name="Guillaume Tschuy"
+          title="Délégué au service juridique"
+          photo="/img/equipe/tschuy-guillaume.jpg"
+          address="Chemin Ami-Argand 37" postal-code="CH-1290" locality="Versoix"
+          email="guillaume.tschuy@lyoxa.ch"
+          phone="+41 78 801 09 72">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          name="Jules Lorenzi"
+          title="Gestionnaire de dossiers"
+          photo="/img/equipe/lorenzi-jules.jpg"
+          address="Rue De L’Athénée 4" postal-code="CH-1205" locality="Genève"
+          email="jules.lorenzi@lyoxa.ch"
+          phone="+41 78 849 55 89">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          name="Sophie Ratcliff"
+          title="Gestionnaire de dossiers"
+          photo="/img/equipe/ratcliff-sophie.jpg"
+          address="Avenue Sainte-Cécile 27" postal-code="CH-1217" locality="Meyrin"
+          email="sophie.ratcliff@lyoxa.ch"
+          phone="+41 76 615 87 33">
+        </team>
+      </div>
     </div>
   </section>
 </template>
