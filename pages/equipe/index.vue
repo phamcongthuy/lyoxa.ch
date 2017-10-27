@@ -9,7 +9,7 @@
         De plus, grâce à cette expérience, nous avons reçu de nombreuses demandes individuelles de soutien et d’informations de notre réseau de connaissances. Nous avons dû intervenir dans plusieurs événements, conseiller des associations dans leur fonctionnement et financement, nous renseigner auprès des autorités des nouvelles attentes, négocier auprès d’entreprises et de propriétaires de salle ainsi que mettre en contact les associations avec nos précédents partenaires. Ces actions ont été faites à titre individuel, et ce, de manière fréquente.
       </p>
       <p>
-        Actuellement l’association est composée des trois membres fondateurs et de trois membres délégués, présentés ci-contre, ainsi que de trois gestionnaires de dossiers. Nous travaillons toutefois au renforcement de cette équipe en recrutant des personnes motivées, engagées et pouvant apporter un plus dans nos services.
+        Actuellement l’association est composée des trois membres fondateurs et de quatre membres délégués, présentés ci-contre, ainsi que de trois gestionnaires de dossiers. Nous travaillons toutefois au renforcement de cette équipe en recrutant des personnes motivées, engagées et pouvant apporter un plus dans nos services.
       </p>
     </div>
     <h2 class="mt-5">Membres fondateurs et Comité</h2>
@@ -81,7 +81,7 @@
       <div class="col-md-4">
         <team
           name="Jules Lorenzi"
-          title="Gestionnaires de dossiers"
+          title="Gestionnaire de dossiers"
           photo="/img/equipe/lorenzi-jules.jpg"
           vertical=true>
         </team>
@@ -89,7 +89,7 @@
       <div class="col-md-4">
         <team
           name="Sophie Ratcliff"
-          title="Gestionnaires de dossiers"
+          title="Gestionnaire de dossiers"
           photo="/img/equipe/ratcliff-sophie.jpg"
           vertical=true>
         </team>
