@@ -38,6 +38,7 @@
       </div>
       <div class="col-lg-6">
         <team
+          class="mb-5 mb-md-0"
           name="Stéphanie Catterson"
           title="Trésorière"
           photo="/img/equipe/catterson-stephanie.jpg"
@@ -48,6 +49,7 @@
       </div>
       <div class="col-lg-6">
         <team
+          class="mb-5 mb-md-0"
           name="Thibaud Mabut"
           title="Délégué à la communication"
           photo="/img/equipe/mabut-thibaud.jpg"
@@ -58,6 +60,7 @@
       </div>
       <div class="col-lg-6">
         <team
+          class="mb-5 mb-md-0"
           name="Marc Delacrétaz"
           title="Délégué à la logistique"
           photo="/img/equipe/delacretaz-marc.jpg"
@@ -68,6 +71,7 @@
       </div>
       <div class="col-lg-6">
         <team
+          class="mb-5 mb-md-0"
           name="Louis Mégroz"
           title="Délégué aux infrastructures"
           photo="/img/equipe/megroz-louis.jpg"
@@ -78,6 +82,7 @@
       </div>
       <div class="col-lg-6">
         <team
+          class="mb-5 mb-md-0"
           name="Guillaume Tschuy"
           title="Délégué au service juridique"
           photo="/img/equipe/tschuy-guillaume.jpg"
@@ -88,6 +93,7 @@
       </div>
       <div class="col-lg-6">
         <team
+          class="mb-5 mb-md-0"
           name="Jules Lorenzi"
           title="Gestionnaire de dossiers"
           photo="/img/equipe/lorenzi-jules.jpg"
@@ -98,6 +104,7 @@
       </div>
       <div class="col-lg-6">
         <team
+          class="mb-5 mb-md-0"
           name="Sophie Ratcliff"
           title="Gestionnaire de dossiers"
           photo="/img/equipe/ratcliff-sophie.jpg"
