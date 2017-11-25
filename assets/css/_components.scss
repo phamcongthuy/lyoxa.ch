@@ -27,6 +27,11 @@
     padding-top: 1em;
   }
 
+  .nav-link--cta {
+    margin-left: 1em;
+    margin-top: .7em;
+  }
+
   .nav-link.active {
     border-top: 3px solid $red;
   }

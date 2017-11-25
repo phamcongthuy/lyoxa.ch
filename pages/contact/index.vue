@@ -1,8 +1,18 @@
 <template>
   <section class="container">
     <h1>Contact</h1>
-    <div class="row justify-content-center">
-      <div class="col-8 col-lg-6">
+
+    <h2>Nouvelle demande</h2>
+    <div class="row">
+      <div class="col">
+        <p class="lead">Merci de nous faire parvenir toutes vos demandes via le <nuxt-link to="/formulaire-de-demande/">formulaire de demande</nuxt-link>.</p>
+        <nuxt-link class="btn btn-primary btn-lg" to="/formulaire-de-demande/" role="button">Formulaire de demande</nuxt-link>
+      </div>
+    </div>
+
+    <h2 class="mt-5">Association Lyoxa</h2>
+    <div class="row">
+      <div class="col-lg-6">
         <team
           name="Association Lyoxa"
           photo="/img/logo.svg"

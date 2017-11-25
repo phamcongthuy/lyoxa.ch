@@ -34,6 +34,9 @@
           <li class="nav-item">
             <nuxt-link to="/contact/" class="nav-link" @click.native="closeMenu()">Contact</nuxt-link>
           </li>
+          <li class="nav-item">
+            <nuxt-link to="/formulaire-de-demande/" class="nav-link--cta btn btn-primary" @click.native="closeMenu()">Nouvelle demande</nuxt-link>
+          </li>
         </ul>
       </div>
     </div>

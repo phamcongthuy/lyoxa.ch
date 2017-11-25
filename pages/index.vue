@@ -49,7 +49,7 @@
     <section class="container mt-5">
       <h1>Besoin d'un conseil?</h1>
       <p class="justify">Nous mettons à votre service notre expérience pour toute demande.</p>
-      <nuxt-link class="btn btn-primary btn-lg mt-3" to="/contact/" role="button">Nous contacter</nuxt-link>
+      <nuxt-link class="btn btn-primary btn-lg mt-3" to="/formulaire-de-demande/" role="button">Formulaire de demande</nuxt-link>
     </section>
   </div>
 </template>
