@@ -51,7 +51,7 @@ module.exports = {
   ** Build configuration
   */
   build: {
-    vendor: ['jquery', 'popper.js', 'bootstrap', 'vue-konami-code'],
+    vendor: ['vue-resource', 'jquery', 'popper.js', 'bootstrap', 'vue-konami-code'],
     plugins: [
       // set shortcuts as global for bootstrap
       new webpack.ProvidePlugin({
@@ -76,6 +76,7 @@ module.exports = {
     }
   },
   plugins: [
+    { src: '@/plugins/vue-resource.js', ssr: false },
     { src: '@/plugins/ga.js', ssr: false },
     '@/plugins/bootstrap.js',
     { src: '@/plugins/konami.js', ssr: false }
