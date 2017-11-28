@@ -65,7 +65,13 @@
           <a href="/documents/Dossier%20de%20présentation.pdf" class="lead">
             <span class="file file-pdf"></span> Dossier de présentation
           </a>
-          <span class="text-muted"> (pdf, 858 KB)</span>
+          <span class="text-muted"> (pdf, 531 KB)</span>
+        </li>
+        <li>
+          <a href="/documents/Dossier%20de%20présentation%20-%20Print.pdf" class="lead">
+            <span class="file file-pdf"></span> Dossier de présentation
+          </a>
+          <span class="text-muted"> (version print, pdf, 3.7 MB)</span>
         </li>
         <li>
           <a href="/documents/Statuts%20en%20vigueur%20-%2017.04.17.pdf" class="lead">
