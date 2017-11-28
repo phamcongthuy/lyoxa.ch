@@ -74,6 +74,14 @@
           vertical=true>
         </team>
       </div>
+      <div class="col-md-4">
+        <team
+          name="Julien Grünhagel"
+          title="Délégué IT"
+          photo="/img/equipe/grunhagel-julien.jpg"
+          vertical=true>
+        </team>
+      </div>
     </div>
 
     <h2 class="mt-5">Gestionnaires de dossiers</h2>

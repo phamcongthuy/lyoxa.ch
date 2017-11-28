@@ -104,6 +104,17 @@
       <div class="col-lg-6">
         <team
           class="mb-5 mb-md-0"
+          name="Julien Grünhagel"
+          title="Délégué IT"
+          photo="/img/equipe/grunhagel-julien.jpg"
+          address="26 avenue des Eidguenots" postal-code="CH-1203" locality="Genève"
+          email="julien.grunhagel@lyoxa.ch"
+          phone="+41 79 674 41 03">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
           name="Jules Lorenzi"
           title="Gestionnaire de dossiers"
           photo="/img/equipe/lorenzi-jules.jpg"
