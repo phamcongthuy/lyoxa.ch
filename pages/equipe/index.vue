@@ -102,6 +102,14 @@
           vertical=true>
         </team>
       </div>
+      <div class="col-md-4">
+        <team
+          name="Florian Parini"
+          title="Gestionnaire de dossiers"
+          photo="/img/equipe/parini-florian.jpg"
+          vertical=true>
+        </team>
+      </div>
     </div>
   </section>
 </template>

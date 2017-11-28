@@ -134,6 +134,17 @@
           phone="+41 76 615 87 33">
         </team>
       </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
+          name="Florian Parini"
+          title="Gestionnaire de dossiers"
+          photo="/img/equipe/parini-florian.jpg"
+          address="Route De Thonon 214" postal-code="CH-1222" locality="Collonge-Bellerive"
+          email="florian.parini@lyoxa.ch"
+          phone="+41 79 721 27 25">
+        </team>
+      </div>
     </div>
   </section>
 </template>
