@@ -2,12 +2,19 @@
   <footer class="bg-light mt-5">
     <div class="container py-3 py-md-5">
       <div class="row">
-        <div class="col">
-          Association Lyoxa
-          <br>
-          <a href="mailto:info@lyoxa.ch">info@lyoxa.ch</a>
-          <br>
-          CH-1200 Genève
+        <div class="col-md">
+          <p>
+            Association Lyoxa
+            <br>
+            <a href="mailto:info@lyoxa.ch">info@lyoxa.ch</a>
+            <br>
+            CH-1200 Genève
+          </p>
+        </div>
+        <div class="col-md col-lg-4 text-lg-right">
+          <p>
+            Organisation reconnue d’intérêt public par la République et Canton de Genève
+          </p>
         </div>
       </div>
       <div class="row mt-3">
