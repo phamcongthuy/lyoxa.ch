@@ -43,7 +43,7 @@
       </div>
       <div class="col-md-6">
         <service
-          title="Banque de matériel"
+          title="Banque de matériel (non disponbible)"
           description="Cette prestation est l’un de nos services principaux. Constatant un manque d’offre de location de matériel de première nécessité logistique pour les événements comme par exemple des portants à vestiaire. Nous souhaitons mettre en place une banque de matériel pour les associations du canton. Celles-ci pourront réserver le matériel par le biais de notre site internet dans une partie réservée aux associations, puis elles pourront venir le chercher dans nos futurs locaux. Nous avons pour projet de louer ce matériel à un prix qui ne représenterait que son coût d’entretien.">
         </service>
       </div>
