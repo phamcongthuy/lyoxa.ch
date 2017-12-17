@@ -6,7 +6,8 @@ module.exports = {
   */
   head: {
     htmlAttrs: {
-      lang: 'fr-CH'
+      lang: 'fr-CH',
+      prefix: 'og: http://ogp.me/ns#'
     },
     title: 'Lyoxa - Consulting associatif',
     meta: [
