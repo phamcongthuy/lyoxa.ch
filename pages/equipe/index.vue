@@ -12,7 +12,7 @@
         Actuellement l’association est composée des trois membres fondateurs et de quatre membres délégués, présentés ci-contre, ainsi que de trois gestionnaires de dossiers. Nous travaillons toutefois au renforcement de cette équipe en recrutant des personnes motivées, engagées et pouvant apporter un plus dans nos services.
       </p>
     </div>
-    <h2 class="mt-5">Membres fondateurs et Comité</h2>
+    <h2 class="mt-5">Membres fondateurs-trices et Comité</h2>
     <div class="row">
       <div class="col-md-4">
         <team
@@ -40,7 +40,7 @@
       </div>
     </div>
 
-    <h2 class="mt-5">Délégués</h2>
+    <h2 class="mt-5">Délégué-e-s aux fonctions internes</h2>
     <div class="row">
       <div class="col-md-4">
         <team
@@ -63,6 +63,14 @@
           name="Marc Delacrétaz"
           title="Délégué à la logistique"
           photo="/img/equipe/delacretaz-marc.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Sophie Ratcliff"
+          title="Déléguée à la gestion des demandes"
+          photo="/img/equipe/ratcliff-sophie.jpg"
           vertical=true>
         </team>
       </div>
@@ -99,14 +107,6 @@
           name="Jules Lorenzi"
           title="Consultant"
           photo="/img/equipe/lorenzi-jules.jpg"
-          vertical=true>
-        </team>
-      </div>
-      <div class="col-md-4">
-        <team
-          name="Sophie Ratcliff"
-          title="Consultante"
-          photo="/img/equipe/ratcliff-sophie.jpg"
           vertical=true>
         </team>
       </div>

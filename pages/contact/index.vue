@@ -127,7 +127,7 @@
         <team
           class="mb-5 mb-md-0"
           name="Sophie Ratcliff"
-          title="Consultante"
+          title="Déléguée à la gestion des demandes"
           photo="/img/equipe/ratcliff-sophie.jpg"
           address="Avenue Sainte-Cécile 27" postal-code="CH-1217" locality="Meyrin"
           email="sophie.ratcliff@lyoxa.ch"
