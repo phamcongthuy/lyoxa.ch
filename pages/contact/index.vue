@@ -145,6 +145,16 @@
           phone="+41 79 721 27 25">
         </team>
       </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
+          name="Titouan Garnier"
+          title="Consultant"
+          photo="/img/equipe/garnier-titouan.jpg"
+          email="titouan.garnier@lyoxa.ch"
+          phone="+33 786 17 01 51">
+        </team>
+      </div>
     </div>
   </section>
 </template>

@@ -110,6 +110,14 @@
           vertical=true>
         </team>
       </div>
+      <div class="col-md-4">
+        <team
+          name="Titouan Garnier"
+          title="Consultant"
+          photo="/img/equipe/garnier-titouan.jpg"
+          vertical=true>
+        </team>
+      </div>
     </div>
   </section>
 </template>
