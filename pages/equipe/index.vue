@@ -68,14 +68,6 @@
       </div>
       <div class="col-md-4">
         <team
-          name="Guillaume Tschuy"
-          title="Délégué au service juridique"
-          photo="/img/equipe/tschuy-guillaume.jpg"
-          vertical=true>
-        </team>
-      </div>
-      <div class="col-md-4">
-        <team
           name="Julien Grünhagel"
           title="Délégué IT"
           photo="/img/equipe/grunhagel-julien.jpg"
@@ -86,6 +78,14 @@
 
     <h2 class="mt-5">Consultant-e-s</h2>
     <div class="row">
+      <div class="col-md-4">
+        <team
+          name="Guillaume Tschuy"
+          title="Consultant"
+          photo="/img/equipe/tschuy-guillaume.jpg"
+          vertical=true>
+        </team>
+      </div>
       <div class="col-md-4">
         <team
           name="Jules Lorenzi"

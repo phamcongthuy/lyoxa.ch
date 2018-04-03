@@ -93,23 +93,23 @@
       <div class="col-lg-6">
         <team
           class="mb-5 mb-md-0"
-          name="Guillaume Tschuy"
-          title="Délégué au service juridique"
-          photo="/img/equipe/tschuy-guillaume.jpg"
-          address="Chemin Ami-Argand 37" postal-code="CH-1290" locality="Versoix"
-          email="guillaume.tschuy@lyoxa.ch"
-          phone="+41 78 801 09 72">
-        </team>
-      </div>
-      <div class="col-lg-6">
-        <team
-          class="mb-5 mb-md-0"
           name="Julien Grünhagel"
           title="Délégué IT"
           photo="/img/equipe/grunhagel-julien.jpg"
           address="26 avenue des Eidguenots" postal-code="CH-1203" locality="Genève"
           email="julien.grunhagel@lyoxa.ch"
           phone="+41 79 674 41 03">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
+          name="Guillaume Tschuy"
+          title="Consultant"
+          photo="/img/equipe/tschuy-guillaume.jpg"
+          address="Chemin Ami-Argand 37" postal-code="CH-1290" locality="Versoix"
+          email="guillaume.tschuy@lyoxa.ch"
+          phone="+41 78 801 09 72">
         </team>
       </div>
       <div class="col-lg-6">
