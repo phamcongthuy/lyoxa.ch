@@ -96,7 +96,7 @@
           name="Julien Grünhagel"
           title="Délégué IT"
           photo="/img/equipe/grunhagel-julien.jpg"
-          address="26 avenue des Eidguenots" postal-code="CH-1203" locality="Genève"
+          address="Avenue des Eidguenots 26" postal-code="CH-1203" locality="Genève"
           email="julien.grunhagel@lyoxa.ch"
           phone="+41 79 674 41 03">
         </team>
