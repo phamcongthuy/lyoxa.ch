@@ -84,12 +84,12 @@
       </div>
     </div>
 
-    <h2 class="mt-5">Gestionnaires de dossiers</h2>
+    <h2 class="mt-5">Consultant-e-s</h2>
     <div class="row">
       <div class="col-md-4">
         <team
           name="Jules Lorenzi"
-          title="Gestionnaire de dossiers"
+          title="Consultant"
           photo="/img/equipe/lorenzi-jules.jpg"
           vertical=true>
         </team>
@@ -97,7 +97,7 @@
       <div class="col-md-4">
         <team
           name="Sophie Ratcliff"
-          title="Gestionnaire de dossiers"
+          title="Consultante"
           photo="/img/equipe/ratcliff-sophie.jpg"
           vertical=true>
         </team>
@@ -105,7 +105,7 @@
       <div class="col-md-4">
         <team
           name="Florian Parini"
-          title="Gestionnaire de dossiers"
+          title="Consultant"
           photo="/img/equipe/parini-florian.jpg"
           vertical=true>
         </team>

@@ -116,7 +116,7 @@
         <team
           class="mb-5 mb-md-0"
           name="Jules Lorenzi"
-          title="Gestionnaire de dossiers"
+          title="Consultant"
           photo="/img/equipe/lorenzi-jules.jpg"
           address="Rue De L’Athénée 4" postal-code="CH-1205" locality="Genève"
           email="jules.lorenzi@lyoxa.ch"
@@ -127,7 +127,7 @@
         <team
           class="mb-5 mb-md-0"
           name="Sophie Ratcliff"
-          title="Gestionnaire de dossiers"
+          title="Consultante"
           photo="/img/equipe/ratcliff-sophie.jpg"
           address="Avenue Sainte-Cécile 27" postal-code="CH-1217" locality="Meyrin"
           email="sophie.ratcliff@lyoxa.ch"
@@ -138,7 +138,7 @@
         <team
           class="mb-5 mb-md-0"
           name="Florian Parini"
-          title="Gestionnaire de dossiers"
+          title="Consultant"
           photo="/img/equipe/parini-florian.jpg"
           address="Route De Thonon 214" postal-code="CH-1222" locality="Collonge-Bellerive"
           email="florian.parini@lyoxa.ch"
