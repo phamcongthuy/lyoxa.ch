@@ -151,6 +151,7 @@
           name="Titouan Garnier"
           title="Consultant"
           photo="/img/equipe/garnier-titouan.jpg"
+          address="Rue des Ecoles 41" postal-code="FR-01630" locality="Saint Genis-pouilly"
           email="titouan.garnier@lyoxa.ch"
           phone="+33 786 17 01 51">
         </team>
