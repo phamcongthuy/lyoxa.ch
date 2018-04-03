@@ -60,45 +60,12 @@
       <div class="col-lg-6">
         <team
           class="mb-5 mb-md-0"
-          name="Thibaud Mabut"
-          title="Délégué à la communication"
-          photo="/img/equipe/mabut-thibaud.jpg"
-          address="Rampe du Pont-Rouge 7a" postal-code="CH-1213" locality="Petit-Lancy"
-          email="thibaud.mabut@lyoxa.ch"
-          phone="+41 76 375 81 56">
-        </team>
-      </div>
-      <div class="col-lg-6">
-        <team
-          class="mb-5 mb-md-0"
-          name="Marc Delacrétaz"
-          title="Délégué à la logistique"
-          photo="/img/equipe/delacretaz-marc.jpg"
-          address="Chemin de la Menuiserie 31" postal-code="CH-1293" locality="Bellevue"
-          email="marc.delacretaz@lyoxa.ch"
-          phone="+41 79 580 32 42">
-        </team>
-      </div>
-      <div class="col-lg-6">
-        <team
-          class="mb-5 mb-md-0"
-          name="Louis Mégroz"
-          title="Délégué aux infrastructures"
-          photo="/img/equipe/megroz-louis.jpg"
-          address="Passage Daniel Baud-Bovy 10" postal-code="CH-1205" locality="Genève"
-          email="louis.megroz@lyoxa.ch"
-          phone="+41 76 343 60 74">
-        </team>
-      </div>
-      <div class="col-lg-6">
-        <team
-          class="mb-5 mb-md-0"
-          name="Julien Grünhagel"
-          title="Délégué IT"
-          photo="/img/equipe/grunhagel-julien.jpg"
-          address="26 avenue des Eidguenots" postal-code="CH-1203" locality="Genève"
-          email="julien.grunhagel@lyoxa.ch"
-          phone="+41 79 674 41 03">
+          name="Florian Parini"
+          title="Consultant"
+          photo="/img/equipe/parini-florian.jpg"
+          address="Route De Thonon 214" postal-code="CH-1222" locality="Collonge-Bellerive"
+          email="florian.parini@lyoxa.ch"
+          phone="+41 79 721 27 25">
         </team>
       </div>
       <div class="col-lg-6">
@@ -126,6 +93,39 @@
       <div class="col-lg-6">
         <team
           class="mb-5 mb-md-0"
+          name="Julien Grünhagel"
+          title="Délégué IT"
+          photo="/img/equipe/grunhagel-julien.jpg"
+          address="26 avenue des Eidguenots" postal-code="CH-1203" locality="Genève"
+          email="julien.grunhagel@lyoxa.ch"
+          phone="+41 79 674 41 03">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
+          name="Louis Mégroz"
+          title="Délégué aux infrastructures"
+          photo="/img/equipe/megroz-louis.jpg"
+          address="Passage Daniel Baud-Bovy 10" postal-code="CH-1205" locality="Genève"
+          email="louis.megroz@lyoxa.ch"
+          phone="+41 76 343 60 74">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
+          name="Marc Delacrétaz"
+          title="Délégué à la logistique"
+          photo="/img/equipe/delacretaz-marc.jpg"
+          address="Chemin de la Menuiserie 31" postal-code="CH-1293" locality="Bellevue"
+          email="marc.delacretaz@lyoxa.ch"
+          phone="+41 79 580 32 42">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
           name="Sophie Ratcliff"
           title="Consultante"
           photo="/img/equipe/ratcliff-sophie.jpg"
@@ -137,12 +137,12 @@
       <div class="col-lg-6">
         <team
           class="mb-5 mb-md-0"
-          name="Florian Parini"
-          title="Consultant"
-          photo="/img/equipe/parini-florian.jpg"
-          address="Route De Thonon 214" postal-code="CH-1222" locality="Collonge-Bellerive"
-          email="florian.parini@lyoxa.ch"
-          phone="+41 79 721 27 25">
+          name="Thibaud Mabut"
+          title="Délégué à la communication"
+          photo="/img/equipe/mabut-thibaud.jpg"
+          address="Rampe du Pont-Rouge 7a" postal-code="CH-1213" locality="Petit-Lancy"
+          email="thibaud.mabut@lyoxa.ch"
+          phone="+41 76 375 81 56">
         </team>
       </div>
       <div class="col-lg-6">

@@ -44,17 +44,9 @@
     <div class="row">
       <div class="col-md-4">
         <team
-          name="Thibaud Mabut"
-          title="Délégué à la communication"
-          photo="/img/equipe/mabut-thibaud.jpg"
-          vertical=true>
-        </team>
-      </div>
-      <div class="col-md-4">
-        <team
-          name="Marc Delacrétaz"
-          title="Délégué à la logistique"
-          photo="/img/equipe/delacretaz-marc.jpg"
+          name="Julien Grünhagel"
+          title="Délégué IT"
+          photo="/img/equipe/grunhagel-julien.jpg"
           vertical=true>
         </team>
       </div>
@@ -68,9 +60,17 @@
       </div>
       <div class="col-md-4">
         <team
-          name="Julien Grünhagel"
-          title="Délégué IT"
-          photo="/img/equipe/grunhagel-julien.jpg"
+          name="Marc Delacrétaz"
+          title="Délégué à la logistique"
+          photo="/img/equipe/delacretaz-marc.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Thibaud Mabut"
+          title="Délégué à la communication"
+          photo="/img/equipe/mabut-thibaud.jpg"
           vertical=true>
         </team>
       </div>
@@ -78,6 +78,14 @@
 
     <h2 class="mt-5">Consultant-e-s</h2>
     <div class="row">
+      <div class="col-md-4">
+        <team
+          name="Florian Parini"
+          title="Consultant"
+          photo="/img/equipe/parini-florian.jpg"
+          vertical=true>
+        </team>
+      </div>
       <div class="col-md-4">
         <team
           name="Guillaume Tschuy"
@@ -99,14 +107,6 @@
           name="Sophie Ratcliff"
           title="Consultante"
           photo="/img/equipe/ratcliff-sophie.jpg"
-          vertical=true>
-        </team>
-      </div>
-      <div class="col-md-4">
-        <team
-          name="Florian Parini"
-          title="Consultant"
-          photo="/img/equipe/parini-florian.jpg"
           vertical=true>
         </team>
       </div>
