@@ -60,6 +60,7 @@
     </section>
     <section class="mt-5">
       <h1>Documents</h1>
+      <h2 class="h3 mb-2">Dossier de présentation</h2>
       <ul class="list-unstyled">
         <li>
           <a href="/documents/Dossier%20de%20présentation.pdf" class="lead">
@@ -73,11 +74,31 @@
           </a>
           <span class="text-muted"> (version print, pdf, 3.7 MB)</span>
         </li>
+      </ul>
+
+      <h2 class="h3 mb-2">Statuts</h2>
+      <ul class="list-unstyled">
         <li>
-          <a href="/documents/Statuts%20en%20vigueur%20-%2017.04.17.pdf" class="lead">
-            <span class="file file-pdf"></span> Statuts en vigueur - 17.04.17
+          <a href="/documents/Statuts%20-%2020.03.18.pdf" class="lead">
+            <span class="file file-pdf"></span> Statuts en vigueur - 20.03.18
+          </a>
+          <span class="text-muted"> (pdf, 974 KB)</span>
+        </li>
+        <li>
+          <a href="/documents/Statuts%20-%2017.04.17.pdf" class="lead">
+            <span class="file file-pdf"></span> Statuts - 17.04.17
           </a>
           <span class="text-muted"> (pdf, 104 KB)</span>
+        </li>
+      </ul>
+
+      <h2 class="h3 mb-2">Procès verbaux de l'Assemblée Générale</h2>
+      <ul class="list-unstyled">
+        <li>
+          <a href="/documents/LYOXA%20-%20PV%20AG%20-%2020.03.18.pdf" class="lead">
+            <span class="file file-pdf"></span> PV AG - 20.03.18
+          </a>
+          <span class="text-muted"> (pdf, 1.1 MB)</span>
         </li>
       </ul>
     </section>
