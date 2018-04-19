@@ -88,6 +88,14 @@
     <div class="row">
       <div class="col-md-4">
         <team
+          name="Bruno Hausler"
+          title="Consultant"
+          photo="/img/equipe/hausler-bruno.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
           name="Florian Parini"
           title="Consultant"
           photo="/img/equipe/parini-florian.jpg"

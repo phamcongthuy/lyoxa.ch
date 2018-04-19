@@ -60,6 +60,17 @@
       <div class="col-lg-6">
         <team
           class="mb-5 mb-md-0"
+          name="Bruno Hausler"
+          title="Consultant"
+          photo="/img/equipe/hausler-bruno.jpg"
+          address="16a chemin du Gué" postal-code="CH-1213" locality="Petit-Lancy"
+          email="bruno.hausler@lyoxa.ch"
+          phone="+41 76 693 51 23">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
           name="Florian Parini"
           title="Consultant"
           photo="/img/equipe/parini-florian.jpg"
