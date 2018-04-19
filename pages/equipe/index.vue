@@ -119,6 +119,21 @@
         </team>
       </div>
     </div>
+
+
+    <h2 class="mt-5">Membres de pôles de compétences</h2>
+    <div class="row">
+      <div class="col">
+        <ul class="list-unstyled">
+          <li><b>Aurélien Celik</b> - Gestion financière</li>
+          <li><b>Christophe Metzger</b> - Evénementiel, Réalisation de projets, Réseau</li>
+          <li><b>Clément Charollais</b> - Evénementiel, Gestion financière, Informatique et graphisme, Réalisation de projets, Réseau</li>
+          <li><b>Romain Boillat</b> - Gouvernance, Informatique et graphisme, Réalisation de projets, Réseau</li>
+          <li><b>Tanguy Ciccone</b> - Evénementiel, Juridique, Réalisation de projets, Réseau</li>
+          <li><b>Tom Chappuis</b> - Evénementiel, Réalisation de projets, Réseau</li>
+        </ul>
+      </div>
+    </div>
   </section>
 </template>
 
