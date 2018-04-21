@@ -93,6 +93,17 @@
       <div class="col-lg-6">
         <team
           class="mb-5 mb-md-0"
+          name="Hélène Conradin"
+          title="Déléguée à la formation"
+          photo="/img/equipe/conradin-helene.jpg"
+          address="8 rue Bergalonne" postal-code="CH-1205" locality="Genève"
+          email="helene.conradin@lyoxa.ch"
+          phone="+41 79 757 40 15">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
           name="Jules Lorenzi"
           title="Consultant"
           photo="/img/equipe/lorenzi-jules.jpg"

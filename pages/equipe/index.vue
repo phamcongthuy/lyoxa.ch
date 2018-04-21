@@ -44,6 +44,14 @@
     <div class="row">
       <div class="col-md-4">
         <team
+          name="Hélène Conradin"
+          title="Déléguée à la formation"
+          photo="/img/equipe/conradin-helene.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
           name="Julien Grünhagel"
           title="Délégué IT"
           photo="/img/equipe/grunhagel-julien.jpg"
