@@ -191,10 +191,7 @@ export default {
   methods: {
     validateForm () {
       const form = document.getElementById('needs-validation')
-      if (form.checkValidity() === false) {
-        event.preventDefault()
-        event.stopPropagation()
-      } else {
+      if (form.checkValidity() !== false) {
         this.formIsValid = true
         return true
       }
@@ -205,7 +202,8 @@ export default {
       this.formIsSubmitted = true
       if (this.validateForm()) {
         let apiURL = 'https://bp60k0083l.execute-api.eu-central-1.amazonaws.com/prod/lyoxaFormSlack'
-        this.$http.post(apiURL, JSON.stringify(this.contact))
+        this.$http
+          .post(apiURL, JSON.stringify(this.contact))
           .then(response => {
             this.formSubmittedSuccessfully = true
             this.errorAfterSubmission = false
