@@ -141,12 +141,15 @@
     <div class="row">
       <div class="col">
         <ul class="list-unstyled">
-          <li><b>Aurélien Celik</b> - Gestion financière</li>
-          <li><b>Christophe Metzger</b> - Evénementiel, Réalisation de projets, Réseau</li>
-          <li><b>Clément Charollais</b> - Evénementiel, Gestion financière, Informatique et graphisme, Réalisation de projets, Réseau</li>
-          <li><b>Romain Boillat</b> - Gouvernance, Informatique et graphisme, Réalisation de projets, Réseau</li>
-          <li><b>Tanguy Ciccone</b> - Evénementiel, Juridique, Réalisation de projets, Réseau</li>
-          <li><b>Tom Chappuis</b> - Evénementiel, Réalisation de projets, Réseau</li>
+          <li class="mb-3"><b>Aurélien Celik</b><br>Gestion financière</li>
+          <li class="mb-3"><b>Benjamin Aebi</b><br>Événementiel, Gestion financière, Gouvernance, Informatique et Graphisme, Réalisation de projets, Réseau</li>
+          <li class="mb-3"><b>Christophe Metzger</b><br>Événementiel, Réalisation de projets, Réseau</li>
+          <li class="mb-3"><b>Clémence Aeelen</b><br>Événementiel, Gestion financière, Réalisation de projets, Réseau</li>
+          <li class="mb-3"><b>Clément Charollais</b><br>Événementiel, Gestion financière, Informatique et graphisme, Réalisation de projets, Réseau</li>
+          <li class="mb-3"><b>Philippine Coutau</b><br>Événementiel, Gestion financière, Réalisation de projets, Réseau</li>
+          <li class="mb-3"><b>Romain Boillat</b><br>Gouvernance, Informatique et graphisme, Réalisation de projets, Réseau</li>
+          <li class="mb-3"><b>Tanguy Ciccone</b><br>Événementiel, Juridique, Réalisation de projets, Réseau</li>
+          <li><b>Tom Chappuis</b><br>Événementiel, Réalisation de projets, Réseau</li>
         </ul>
       </div>
     </div>
