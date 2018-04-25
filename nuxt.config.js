@@ -23,6 +23,10 @@ module.exports = {
       { property: 'og:locale', content: 'fr-CH', hid: 'og_locale' },
       { name: 'twitter:card', content: 'summary', hid: 'twitter_card' }
     ],
+    script: [
+      { src: 'https://cdn.jsdelivr.net/vue/2.0.0-rc/vue.min.js' },
+      { src: 'https://cdn.ravenjs.com/3.24.2/vue/raven.min.js', crossorigin: 'anonymous' }
+    ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'apple-touch-icon', sizes: '180x180', href: 'apple-touch-icon.png' },
@@ -79,6 +83,7 @@ module.exports = {
   },
   plugins: [
     { src: '@/plugins/vue-resource.js', ssr: false },
+    { src: '@/plugins/raven.js', ssr: false },
     { src: '@/plugins/ga.js', ssr: false },
     '@/plugins/bootstrap.js',
     { src: '@/plugins/konami.js', ssr: false }
