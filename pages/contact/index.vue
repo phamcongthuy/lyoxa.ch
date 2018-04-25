@@ -53,8 +53,7 @@
           title="Trésorière"
           photo="/img/equipe/catterson-stephanie.jpg"
           address="Route de St-Cergue 22" postal-code="CH-1273" locality="Arzier"
-          email="stephanie.catterson@lyoxa.ch"
-          phone="+41 79 710 05 27">
+          email="stephanie.catterson@lyoxa.ch">
         </team>
       </div>
       <div class="col-lg-6">
@@ -64,8 +63,7 @@
           title="Consultant"
           photo="/img/equipe/hausler-bruno.jpg"
           address="16a chemin du Gué" postal-code="CH-1213" locality="Petit-Lancy"
-          email="bruno.hausler@lyoxa.ch"
-          phone="+41 76 693 51 23">
+          email="bruno.hausler@lyoxa.ch">
         </team>
       </div>
       <div class="col-lg-6">
@@ -75,8 +73,7 @@
           title="Consultant"
           photo="/img/equipe/parini-florian.jpg"
           address="Route De Thonon 214" postal-code="CH-1222" locality="Collonge-Bellerive"
-          email="florian.parini@lyoxa.ch"
-          phone="+41 79 721 27 25">
+          email="florian.parini@lyoxa.ch">
         </team>
       </div>
       <div class="col-lg-6">
@@ -86,8 +83,7 @@
           title="Consultant"
           photo="/img/equipe/tschuy-guillaume.jpg"
           address="Chemin Ami-Argand 37" postal-code="CH-1290" locality="Versoix"
-          email="guillaume.tschuy@lyoxa.ch"
-          phone="+41 78 801 09 72">
+          email="guillaume.tschuy@lyoxa.ch">
         </team>
       </div>
       <div class="col-lg-6">
@@ -97,8 +93,7 @@
           title="Déléguée à la formation"
           photo="/img/equipe/conradin-helene.jpg"
           address="8 rue Bergalonne" postal-code="CH-1205" locality="Genève"
-          email="helene.conradin@lyoxa.ch"
-          phone="+41 79 757 40 15">
+          email="helene.conradin@lyoxa.ch">
         </team>
       </div>
       <div class="col-lg-6">
@@ -108,8 +103,7 @@
           title="Consultant"
           photo="/img/equipe/lorenzi-jules.jpg"
           address="Rue De L’Athénée 4" postal-code="CH-1205" locality="Genève"
-          email="jules.lorenzi@lyoxa.ch"
-          phone="+41 78 849 55 89">
+          email="jules.lorenzi@lyoxa.ch">
         </team>
       </div>
       <div class="col-lg-6">
@@ -119,8 +113,7 @@
           title="Délégué IT"
           photo="/img/equipe/grunhagel-julien.jpg"
           address="Avenue des Eidguenots 26" postal-code="CH-1203" locality="Genève"
-          email="julien.grunhagel@lyoxa.ch"
-          phone="+41 79 674 41 03">
+          email="julien.grunhagel@lyoxa.ch">
         </team>
       </div>
       <div class="col-lg-6">
@@ -130,8 +123,7 @@
           title="Délégué aux infrastructures"
           photo="/img/equipe/megroz-louis.jpg"
           address="Passage Daniel Baud-Bovy 10" postal-code="CH-1205" locality="Genève"
-          email="louis.megroz@lyoxa.ch"
-          phone="+41 76 343 60 74">
+          email="louis.megroz@lyoxa.ch">
         </team>
       </div>
       <div class="col-lg-6">
@@ -141,8 +133,7 @@
           title="Délégué à la logistique"
           photo="/img/equipe/delacretaz-marc.jpg"
           address="Chemin de la Menuiserie 31" postal-code="CH-1293" locality="Bellevue"
-          email="marc.delacretaz@lyoxa.ch"
-          phone="+41 79 580 32 42">
+          email="marc.delacretaz@lyoxa.ch">
         </team>
       </div>
       <div class="col-lg-6">
@@ -163,8 +154,7 @@
           title="Délégué à la communication"
           photo="/img/equipe/mabut-thibaud.jpg"
           address="Rampe du Pont-Rouge 7a" postal-code="CH-1213" locality="Petit-Lancy"
-          email="thibaud.mabut@lyoxa.ch"
-          phone="+41 76 375 81 56">
+          email="thibaud.mabut@lyoxa.ch">
         </team>
       </div>
       <div class="col-lg-6">
@@ -174,8 +164,7 @@
           title="Consultant"
           photo="/img/equipe/garnier-titouan.jpg"
           address="Rue des Ecoles 41" postal-code="FR-01630" locality="Saint Genis-pouilly"
-          email="titouan.garnier@lyoxa.ch"
-          phone="+33 786 17 01 51">
+          email="titouan.garnier@lyoxa.ch">
         </team>
       </div>
     </div>
