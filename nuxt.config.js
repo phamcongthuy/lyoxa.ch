@@ -57,7 +57,7 @@ module.exports = {
   ** Build configuration
   */
   build: {
-    vendor: ['vue-resource', 'jquery', 'popper.js', 'bootstrap', 'vue-konami-code'],
+    vendor: ['jquery', 'popper.js', 'bootstrap', 'vue-konami-code'],
     plugins: [
       // set shortcuts as global for bootstrap
       new webpack.ProvidePlugin({
@@ -81,8 +81,10 @@ module.exports = {
       }
     }
   },
+  modules: [
+    '@nuxtjs/axios'
+  ],
   plugins: [
-    { src: '@/plugins/vue-resource.js', ssr: false },
     { src: '@/plugins/raven.js', ssr: false },
     { src: '@/plugins/ga.js', ssr: false },
     '@/plugins/bootstrap.js',

@@ -202,8 +202,8 @@ export default {
       this.formIsSubmitted = true
       if (this.validateForm()) {
         let apiURL = 'https://bp60k0083l.execute-api.eu-central-1.amazonaws.com/prod/lyoxaFormSlack'
-        this.$http
-          .post(apiURL, JSON.stringify(this.contact))
+        this.$axios
+          .$post(apiURL, JSON.stringify(this.contact))
           .then(response => {
             this.formSubmittedSuccessfully = true
             this.errorAfterSubmission = false
