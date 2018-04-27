@@ -144,7 +144,7 @@
           <li class="mb-3"><b>Aurélien Celik</b><br>Gestion financière</li>
           <li class="mb-3"><b>Benjamin Aebi</b><br>Événementiel, Gestion financière, Gouvernance, Informatique et Graphisme, Réalisation de projets, Réseau</li>
           <li class="mb-3"><b>Christophe Metzger</b><br>Événementiel, Réalisation de projets, Réseau</li>
-          <li class="mb-3"><b>Clémence Aeelen</b><br>Événementiel, Gestion financière, Réalisation de projets, Réseau</li>
+          <li class="mb-3"><b>Clémence Aellen</b><br>Événementiel, Gestion financière, Réalisation de projets, Réseau</li>
           <li class="mb-3"><b>Clément Charollais</b><br>Événementiel, Gestion financière, Informatique et graphisme, Réalisation de projets, Réseau</li>
           <li class="mb-3"><b>Philippine Coutau</b><br>Événementiel, Gestion financière, Réalisation de projets, Réseau</li>
           <li class="mb-3"><b>Romain Boillat</b><br>Gouvernance, Informatique et graphisme, Réalisation de projets, Réseau</li>
