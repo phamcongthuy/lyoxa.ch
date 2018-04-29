@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar sticky-top navbar-expand-md navbar-light bg-white mb-5 border border-top-0 border-right-0 border-left-0">
+  <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white mb-5 border border-top-0 border-right-0 border-left-0">
     <div class="container">
       <nuxt-link to="/" class="navbar-brand" @click.native="closeMenu()">
         <img src="/img/logo.svg" width="73" height="30" alt="Lyoxa's logo">
@@ -31,6 +31,9 @@
           <!-- <li class="nav-item">
             <nuxt-link to="/portfolio" class="nav-link" @click.native="closeMenu()">Portfolio</nuxt-link>
           </li> -->
+          <li class="nav-item">
+            <nuxt-link to="/nous-soutenir/" class="nav-link" @click.native="closeMenu()">Nous soutenir</nuxt-link>
+          </li>
           <li class="nav-item">
             <nuxt-link to="/contact/" class="nav-link" @click.native="closeMenu()">Contact</nuxt-link>
           </li>
