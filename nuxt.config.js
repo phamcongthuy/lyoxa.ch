@@ -19,7 +19,7 @@ module.exports = {
       { property: 'og:type', content: 'website', hid: 'og_type' },
       { property: 'og:title', content: 'Lyoxa - Consulting associatif', hid: 'og_title' },
       { property: 'og:description', content: 'Lyoxa est une plateforme de soutien, d’entraide et de collaboration entre les différents acteurs liés à la vie associative dans le Canton de Genève.', hid: 'od_description' },
-      { property: 'og:image', content: 'https://lyoxa.ch/img/logo.svg', hid: 'og_image' },
+      { property: 'og:image', content: 'https://lyoxa.ch/img/logo.jpg', hid: 'og_image' },
       { property: 'og:locale', content: 'fr-CH', hid: 'og_locale' },
       { name: 'twitter:card', content: 'summary', hid: 'twitter_card' }
     ],
