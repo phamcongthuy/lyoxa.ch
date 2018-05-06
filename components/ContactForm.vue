@@ -135,6 +135,10 @@
           <textarea class="form-control" id="contactInputServiceOther" rows="8" cols="80" v-model="contact.services.otherText"></textarea>
         </div>
       </div>
+      <div class="form-group">
+        <label for="contactInputBiais">Par quel biais nous avez vous connu ?</label>
+        <input class="form-control" id="contactInputBiais" v-model="contact.biais">
+      </div>
 
       <div class="alert alert-danger" role="alert" v-if="formIsSubmitted && !formIsValid">
         Une/plusieurs erreur(s) est/sont présente(s) dans le formulaire; merci de la/les corriger.
