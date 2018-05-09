@@ -14,7 +14,7 @@
         <h1>Lyoxa</h1>
         <video width="100%" controls poster="/img/home/lyoxa-presentation.png" @ended="videoHasEnded">
           <source src="/videos/lyoxa-presentation.mp4" type="video/mp4">
-          Your browser does not support the video tag.
+          Votre navigateur ne supporte pas les vidéos natives.
         </video>
         <p class="justify mt-3">LYOXA est né de multiples constats dressés par l’expérience de terrain de plusieurs de ses fondateurs.</p>
         <p class="justify">Dès lors, nous avons voulu créer une structure visant à fournir les <b>clés de compréhension</b> nécessaires au fonctionnement associatif. Par le soutien à l’organisation de manifestations ainsi qu’à la création et à la gestion d’associations, nous voulons permettre à tout à chacun de s’engager dans le monde associatif afin de collectivement contribuer à l’amélioration de notre société.</p>
