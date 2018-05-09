@@ -76,6 +76,16 @@
         </li>
       </ul>
 
+      <h2 class="h3 mb-2">Rapports d'activité</h2>
+      <ul class="list-unstyled">
+        <li>
+          <a href="/documents/Lyoxa%20-%20Rapport%20d'activité%202017.pdf" class="lead">
+            <span class="file file-pdf"></span> Rapport d'activité 2017
+          </a>
+          <span class="text-muted"> (pdf, 377 KB)</span>
+        </li>
+      </ul>
+
       <h2 class="h3 mb-2">Statuts</h2>
       <ul class="list-unstyled">
         <li>

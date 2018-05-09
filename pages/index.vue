@@ -18,7 +18,8 @@
         </video>
         <p class="justify mt-3">LYOXA est né de multiples constats dressés par l’expérience de terrain de plusieurs de ses fondateurs.</p>
         <p class="justify">Dès lors, nous avons voulu créer une structure visant à fournir les <b>clés de compréhension</b> nécessaires au fonctionnement associatif. Par le soutien à l’organisation de manifestations ainsi qu’à la création et à la gestion d’associations, nous voulons permettre à tout à chacun de s’engager dans le monde associatif afin de collectivement contribuer à l’amélioration de notre société.</p>
-        <nuxt-link class="btn btn-primary btn-lg mt-3" to="/lyoxa/" role="button">En savoir plus sur Lyoxa</nuxt-link>
+        <nuxt-link class="btn btn-primary btn-lg mt-3 mr-3" to="/lyoxa/" role="button">En savoir plus sur Lyoxa</nuxt-link>
+        <a href="/documents/Lyoxa%20-%20Rapport%20d'activité%202017.pdf" class="btn btn-outline-primary btn-lg mt-3">Rapport d'activité 2017</a>
       </section>
     </div>
     <section class="container mt-5">
