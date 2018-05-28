@@ -14,7 +14,7 @@
 
         <p>…vous pouvez nous soutenir, comme les particuliers, par un don mais aussi par un engagement de mécénat ou par des prestations à titre gratuit. Ces formes de soutien, lorsqu’elles dépassent une valeur pécuniaire de CHF 300.-, pourront être déduites de votre déclaration fiscale moyennant une attestation que nous vous fournirons.</p>
 
-        <p class="font-weight-bold lead mt-5">Oú ira votre contribution?</p>
+        <p class="font-weight-bold lead mt-5">oú ira votre contribution?</p>
 
         <ol>
           <li>Financement des locaux et de l’aménagement de ceux-ci - Nous pourrons ainsi offrir un espace de travail adéquat à nos membres et serons à même de recevoir les personnes ou associations sollicitantes.</li>
