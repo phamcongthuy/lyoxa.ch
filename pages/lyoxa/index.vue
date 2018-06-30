@@ -82,7 +82,7 @@
           <a href="/documents/Lyoxa%20-%20Rapport%20d'activité%202017.pdf" class="lead">
             <span class="file file-pdf"></span> Rapport d'activité 2017
           </a>
-          <span class="text-muted"> (pdf, 377 KB)</span>
+          <span class="text-muted"> (pdf, 290 KB)</span>
         </li>
       </ul>
 
