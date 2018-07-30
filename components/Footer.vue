@@ -9,6 +9,10 @@
             <a href="mailto:info@lyoxa.ch">info@lyoxa.ch</a>
             <br>
             CH-1200 Genève
+            <br>
+            <a href="https://www.facebook.com/lyoxa.consulting.associatif/">
+              <img src="/img/social/facebook-logo.svg" width="24" height="24" alt="Facebook's logo">
+            </a>
           </p>
         </div>
         <div class="col-md col-lg-4 text-lg-right">

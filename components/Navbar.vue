@@ -38,6 +38,11 @@
             <nuxt-link to="/contact/" class="nav-link" @click.native="closeMenu()">Contact</nuxt-link>
           </li>
           <li class="nav-item">
+            <a href="https://www.facebook.com/lyoxa.consulting.associatif/" class="nav-link">
+              <img src="/img/social/facebook-logo.svg" width="24" height="24" alt="Facebook's logo">
+            </a>
+          </li>
+          <li class="nav-item">
             <nuxt-link to="/formulaire-de-demande/" class="nav-link--cta btn btn-primary" @click.native="closeMenu()">Nouvelle demande</nuxt-link>
           </li>
         </ul>
