@@ -69,6 +69,16 @@
       <div class="col-lg-6">
         <team
           class="mb-5 mb-md-0"
+          name="Clémence Aellen"
+          title="Consultante"
+          photo="/img/equipe/aellen-clemence.jpg"
+          address="32 chemin du Reposoir" postal-code="CH-1255" locality="Veyrier"
+          email="clemence.aellen@lyoxa.ch">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
           name="Florian Parini"
           title="Consultant"
           photo="/img/equipe/parini-florian.jpg"
@@ -139,6 +149,16 @@
       <div class="col-lg-6">
         <team
           class="mb-5 mb-md-0"
+          name="Philippine Coutau"
+          title="Consultante"
+          photo="/img/equipe/coutau-philippine.jpg"
+          address="Avenue de Miremont 13 bis" postal-code="CH-1206" locality="Genève"
+          email="philippine.coutau@lyoxa.ch">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
           name="Sophie Ratcliff"
           title="Déléguée à la gestion des demandes"
           photo="/img/equipe/ratcliff-sophie.jpg"
@@ -165,6 +185,16 @@
           photo="/img/equipe/garnier-titouan.jpg"
           address="Rue des Ecoles 41" postal-code="FR-01630" locality="Saint Genis-pouilly"
           email="titouan.garnier@lyoxa.ch">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
+          name="Youri Bernet"
+          title="Consultant"
+          photo="/img/equipe/bernet-youri.jpg"
+          address="Rue des Pavillons 12" postal-code="CH-1205" locality="Genève"
+          email="youri.bernet@lyoxa.ch">
         </team>
       </div>
     </div>

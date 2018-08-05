@@ -104,6 +104,14 @@
       </div>
       <div class="col-md-4">
         <team
+          name="Clémence Aellen"
+          title="Consultante"
+          photo="/img/equipe/aellen-clemence.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
           name="Florian Parini"
           title="Consultant"
           photo="/img/equipe/parini-florian.jpg"
@@ -128,9 +136,25 @@
       </div>
       <div class="col-md-4">
         <team
+          name="Philippine Coutau"
+          title="Consultante"
+          photo="/img/equipe/coutau-philippine.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
           name="Titouan Garnier"
           title="Consultant"
           photo="/img/equipe/garnier-titouan.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Youri Bernet"
+          title="Consultant"
+          photo="/img/equipe/bernet-youri.jpg"
           vertical=true>
         </team>
       </div>
