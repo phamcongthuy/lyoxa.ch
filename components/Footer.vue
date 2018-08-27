@@ -3,12 +3,16 @@
     <div class="container py-3 py-md-5">
       <div class="row">
         <div class="col-md">
-          <p>
-            Association Lyoxa
+          <p itemscope itemtype="http://schema.org/Organization">
+            <span itemprop="name">Association Lyoxa</span>
             <br>
-            <a href="mailto:info@lyoxa.ch">info@lyoxa.ch</a>
+            <a href="mailto:info@lyoxa.ch" itemprop="email">info@lyoxa.ch</a>
             <br>
-            CH-1200 Genève
+            <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+              <span itemprop="streetAddress">Rue du Vuache, 25</span>
+              <br>
+              CH-<span itemprop="postalCode">1201</span>&nbsp;<span itemprop="addressRegion">Genève</span>
+            </span>
             <br>
             <a href="https://www.facebook.com/lyoxa.consulting.associatif/">
               <img src="/img/social/facebook-logo.svg" width="24" height="24" alt="Facebook's logo">

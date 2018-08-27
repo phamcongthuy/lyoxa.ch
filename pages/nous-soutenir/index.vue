@@ -31,9 +31,12 @@
           <div class="card-body">
             <h5 class="card-title">Association Lyoxa</h5>
             <p>
-              1200 Genève<br>
-              CCP : 14-940357-4</br>
-              IBAN : CH78 0900 0000 1494 0357 4
+              Rue du Vuache, 25<br>
+              1200 Genève
+            </p>
+            <p>
+              <b>CCP :</b> 14-940357-4</br>
+              <b>IBAN :</b> CH78 0900 0000 1494 0357 4
             </p>
           </div>
         </div>
