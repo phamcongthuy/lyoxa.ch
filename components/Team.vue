@@ -1,18 +1,19 @@
 <template>
-  <div class="row">
+  <div class="row" itemscope itemtype="http://schema.org/Person">
     <div :class="[vertical ? 'col-6 col-md-12' : 'col-md-6']">
-      <img :src="photo" :alt="name" class="w-100 mb-3">
+      <img :src="photo" :alt="name" class="w-100 mb-3" itemprop="image">
     </div>
     <div :class="[vertical ? 'col-6 col-md-12' : 'col-md-6']">
-      <p class="font-weight-bold mb-0 text-uppercase">{{ name }}</p>
-      <p>{{ title }}</p>
-      <address>
-        {{ address }}<span v-if='address'>,<br></span>
-        {{ postalCode }} {{ locality }}
+      <p class="font-weight-bold mb-0 text-uppercase" itemprop="name">{{ name }}</p>
+      <p itemprop="jobTitle">{{ title }}</p>
+      <address v-if='address' itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <span itemprop="streetAddress">{{ address }}</span>,
+        <br>
+        <span itemprop="postalCode">{{ postalCode }}</span>&nbsp;<span itemprop="addressRegion">{{ locality }}</span>
       </address>
-      <a :href="`mailto:${email}`">{{ email }}</a>
+      <a v-if="email" :href="`mailto:${email}`" itemprop="email">{{ email }}</a>
       <br>
-      <a :href="`tel:${phone.replace(/\s/g, '')}`" v-if='phone'>{{ phone }}</a>
+      <a v-if="phone" :href="`tel:${phone.replace(/\s/g, '')}`" itemprop="telephone">{{ phone }}</a>
     </div>
   </div>
 </template>
