@@ -144,6 +144,14 @@
       </div>
       <div class="col-md-4">
         <team
+          name="Robin Staehli"
+          title="Consultant"
+          photo="/img/equipe/staehli-robin.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
           name="Titouan Garnier"
           title="Consultant"
           photo="/img/equipe/garnier-titouan.jpg"
@@ -168,11 +176,9 @@
           <li class="mb-3"><b>Aurélien Celik</b><br>Gestion financière</li>
           <li class="mb-3"><b>Benjamin Aebi</b><br>Événementiel, Gestion financière, Gouvernance, Informatique et Graphisme, Réalisation de projets, Réseau</li>
           <li class="mb-3"><b>Christophe Metzger</b><br>Événementiel, Réalisation de projets, Réseau</li>
-          <li class="mb-3"><b>Clémence Aellen</b><br>Événementiel, Gestion financière, Réalisation de projets, Réseau</li>
           <li class="mb-3"><b>Clément Charollais</b><br>Événementiel, Gestion financière, Informatique et graphisme, Réalisation de projets, Réseau</li>
           <li class="mb-3"><b>Laurie Liccardo</b><br>Evénementiel, Gouvernance, Juridique</li>
           <li class="mb-3"><b>Michael Netter</b><br>Formation, Gouvernance, Juridique, Réseau</li>
-          <li class="mb-3"><b>Philippine Coutau</b><br>Événementiel, Gestion financière, Réalisation de projets, Réseau</li>
           <li class="mb-3"><b>Romain Boillat</b><br>Gouvernance, Informatique et graphisme, Réalisation de projets, Réseau</li>
           <li class="mb-3"><b>Tanguy Ciccone</b><br>Événementiel, Juridique, Réalisation de projets, Réseau</li>
           <li><b>Tom Chappuis</b><br>Événementiel, Réalisation de projets, Réseau</li>

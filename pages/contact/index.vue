@@ -159,6 +159,16 @@
       <div class="col-lg-6">
         <team
           class="mb-5 mb-md-0"
+          name="Robin Staehli"
+          title="Consultant"
+          photo="/img/equipe/staehli-robin.jpg"
+          address="Chemin de la Dîme 1" postal-code="CH-1294" locality="Genthod"
+          email="robin.staehli@lyoxa.ch">
+        </team>
+      </div>
+      <div class="col-lg-6">
+        <team
+          class="mb-5 mb-md-0"
           name="Sophie Ratcliff"
           title="Déléguée à la gestion des demandes"
           photo="/img/equipe/ratcliff-sophie.jpg"
