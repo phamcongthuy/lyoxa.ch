@@ -79,16 +79,6 @@
       <div class="col-lg-6">
         <team
           class="mb-5 mb-md-0"
-          name="Florian Parini"
-          title="Consultant"
-          photo="/img/equipe/parini-florian.jpg"
-          address="Route De Thonon 214" postal-code="CH-1222" locality="Collonge-Bellerive"
-          email="florian.parini@lyoxa.ch">
-        </team>
-      </div>
-      <div class="col-lg-6">
-        <team
-          class="mb-5 mb-md-0"
           name="Guillaume Tschuy"
           title="Consultant"
           photo="/img/equipe/tschuy-guillaume.jpg"

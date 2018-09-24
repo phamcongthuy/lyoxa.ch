@@ -112,14 +112,6 @@
       </div>
       <div class="col-md-4">
         <team
-          name="Florian Parini"
-          title="Consultant"
-          photo="/img/equipe/parini-florian.jpg"
-          vertical=true>
-        </team>
-      </div>
-      <div class="col-md-4">
-        <team
           name="Guillaume Tschuy"
           title="Consultant"
           photo="/img/equipe/tschuy-guillaume.jpg"
