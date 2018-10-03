@@ -12,7 +12,7 @@
         Actuellement l’association est composée des trois membres fondateurs et de quatre membres délégués, présentés ci-contre, ainsi que de trois gestionnaires de dossiers. Nous travaillons toutefois au renforcement de cette équipe en recrutant des personnes motivées, engagées et pouvant apporter un plus dans nos services.
       </p>
     </div>
-    <h2 class="mt-5">Membres fondateurs-trices et Comité</h2>
+    <h2 class="mt-5 mb-3">Membres fondateurs-trices et Comité</h2>
     <div class="row">
       <div class="col-md-4">
         <team
@@ -40,7 +40,7 @@
       </div>
     </div>
 
-    <h2 class="mt-5">Délégué-e-s aux fonctions internes</h2>
+    <h2 class="mt-5 mb-3">Délégué-e-s aux fonctions internes</h2>
     <div class="row">
       <div class="col-md-4">
         <team
@@ -92,7 +92,7 @@
       </div>
     </div>
 
-    <h2 class="mt-5">Consultant-e-s</h2>
+    <h2 class="mt-5 mb-3">Consultant-e-s</h2>
     <div class="row">
       <div class="col-md-4">
         <team
@@ -153,7 +153,7 @@
     </div>
 
 
-    <h2 class="mt-5">Membres de pôles de compétences</h2>
+    <h2 class="mt-5 mb-3">Membres de pôles de compétences</h2>
 
     <div class="row">
       <div class="col-md-4">
