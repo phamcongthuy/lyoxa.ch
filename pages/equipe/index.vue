@@ -97,7 +97,6 @@
       <div class="col-md-4">
         <team
           name="Bruno Hausler"
-          title="Consultant"
           photo="/img/equipe/hausler-bruno.jpg"
           vertical=true>
         </team>
@@ -105,7 +104,6 @@
       <div class="col-md-4">
         <team
           name="Clémence Aellen"
-          title="Consultante"
           photo="/img/equipe/aellen-clemence.jpg"
           vertical=true>
         </team>
@@ -113,7 +111,6 @@
       <div class="col-md-4">
         <team
           name="Guillaume Tschuy"
-          title="Consultant"
           photo="/img/equipe/tschuy-guillaume.jpg"
           vertical=true>
         </team>
@@ -121,7 +118,6 @@
       <div class="col-md-4">
         <team
           name="Jules Lorenzi"
-          title="Consultant"
           photo="/img/equipe/lorenzi-jules.jpg"
           vertical=true>
         </team>
@@ -129,7 +125,6 @@
       <div class="col-md-4">
         <team
           name="Philippine Coutau"
-          title="Consultante"
           photo="/img/equipe/coutau-philippine.jpg"
           vertical=true>
         </team>
@@ -137,7 +132,6 @@
       <div class="col-md-4">
         <team
           name="Robin Staehli"
-          title="Consultant"
           photo="/img/equipe/staehli-robin.jpg"
           vertical=true>
         </team>
@@ -145,7 +139,6 @@
       <div class="col-md-4">
         <team
           name="Titouan Garnier"
-          title="Consultant"
           photo="/img/equipe/garnier-titouan.jpg"
           vertical=true>
         </team>
@@ -153,7 +146,6 @@
       <div class="col-md-4">
         <team
           name="Youri Bernet"
-          title="Consultant"
           photo="/img/equipe/bernet-youri.jpg"
           vertical=true>
         </team>
