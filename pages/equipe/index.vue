@@ -154,19 +154,79 @@
 
 
     <h2 class="mt-5">Membres de pôles de compétences</h2>
+
     <div class="row">
-      <div class="col">
-        <ul class="list-unstyled">
-          <li class="mb-3"><b>Aurélien Celik</b><br>Gestion financière</li>
-          <li class="mb-3"><b>Benjamin Aebi</b><br>Événementiel, Gestion financière, Gouvernance, Informatique et Graphisme, Réalisation de projets, Réseau</li>
-          <li class="mb-3"><b>Christophe Metzger</b><br>Événementiel, Réalisation de projets, Réseau</li>
-          <li class="mb-3"><b>Clément Charollais</b><br>Événementiel, Gestion financière, Informatique et graphisme, Réalisation de projets, Réseau</li>
-          <li class="mb-3"><b>Laurie Liccardo</b><br>Evénementiel, Gouvernance, Juridique</li>
-          <li class="mb-3"><b>Michael Netter</b><br>Formation, Gouvernance, Juridique, Réseau</li>
-          <li class="mb-3"><b>Romain Boillat</b><br>Gouvernance, Informatique et graphisme, Réalisation de projets, Réseau</li>
-          <li class="mb-3"><b>Tanguy Ciccone</b><br>Événementiel, Juridique, Réalisation de projets, Réseau</li>
-          <li><b>Tom Chappuis</b><br>Événementiel, Réalisation de projets, Réseau</li>
-        </ul>
+      <div class="col-md-4">
+        <team
+          name="Aurélien Celik"
+          title="Gestion financière"
+          photo="/img/equipe/celik-aurelien.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Benjamin Aebi"
+          title="Événementiel, Gestion financière, Gouvernance, Informatique et Graphisme, Réalisation de projets, Réseau"
+          photo="/img/equipe/aebi-benjamin.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Christophe Metzger"
+          title="Événementiel, Réalisation de projets, Réseau"
+          photo="/img/equipe/metzger-christophe.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Clément Charollais"
+          title="Événementiel, Gestion financière, Informatique et graphisme, Réalisation de projets, Réseau"
+          photo="/img/equipe/charollais-clement.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Laurie Liccardo"
+          title="Evénementiel, Gouvernance, Juridique"
+          photo="/img/equipe/liccardo-laurie.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Michael Netter"
+          title="Formation, Gouvernance, Juridique, Réseau"
+          photo="/img/equipe/netter-michael.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Romain Boillat"
+          title="Gouvernance, Informatique et graphisme, Réalisation de projets, Réseau"
+          photo="/img/equipe/boillat-romain.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Tanguy Ciccone"
+          title="Événementiel, Juridique, Réalisation de projets, Réseau"
+          photo="/img/equipe/ciccone-tanguy.jpg"
+          vertical=true>
+        </team>
+      </div>
+      <div class="col-md-4">
+        <team
+          name="Tom Chappuis"
+          title="Événementiel, Réalisation de projets, Réseau"
+          photo="/img/equipe/chappuis-tom.jpg"
+          vertical=true>
+        </team>
       </div>
     </div>
   </section>
