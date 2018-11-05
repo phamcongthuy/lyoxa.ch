@@ -136,7 +136,7 @@
         </div>
       </div>
       <div class="form-group">
-        <label for="contactInputBiais">Par quel biais nous avez vous connu ?</label>
+        <label for="contactInputBiais">Par quel biais nous avez vous connus?</label>
         <input class="form-control" id="contactInputBiais" v-model="contact.biais">
       </div>
 
