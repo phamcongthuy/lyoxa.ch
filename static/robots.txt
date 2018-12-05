@@ -1,9 +1,0 @@
-# Rule 1
-User-agent: *
-Disallow: /discotime/
-
-# Rule 2
-User-agent: *
-Allow: /
-
-Sitemap: https://lyoxa.ch/sitemap.xml
