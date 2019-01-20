@@ -17,7 +17,7 @@
     <footer class="bg-light mt-5">
       <div class="container py-5">
         <div class="row">
-          <div class="col-12 col-md">
+          <div class="col-md">
             <div>
               Association Lyoxa<br>
               <a href="mailto:info@lyoxa.ch">info@lyoxa.ch</a><br>
@@ -35,7 +35,7 @@
               </a>
             </div>
           </div>
-          <div class="col-12 col-md mt-5 mt-md-0 text-md-right">
+          <div class="col-md mt-5 mt-md-0 text-md-right">
             <img
               src="~/assets/img/geneve-logo.svg"
               alt="Logo de la République et Canton de Genève"
