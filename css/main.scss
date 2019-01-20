@@ -1,2 +1,14 @@
 @import "custom";
 @import "~bootstrap/scss/bootstrap";
+@import "~bootstrap/scss/mixins";
+
+.justify {
+  text-align: justify;
+  hyphens: auto;
+}
+
+@include media-breakpoint-up(lg) {
+  .border-lg-right {
+    border-right: $border-width solid $border-color !important;
+  }
+}

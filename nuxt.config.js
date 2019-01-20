@@ -14,7 +14,7 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: pkg.description }
+      { hid: 'description', name: 'description', content: 'Lyoxa est une plateforme de conseils gratuits, de soutien et de collaboration entre les différents acteurs liés à la vie associative dans le Canton de Genève.' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
